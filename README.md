@@ -5,7 +5,7 @@ This folder contains a collection of SQL based data projects.
 
 #
 
-#### [SQL: AlgoSQL Project](https://github.com/guzmanwolfrank/SQL/tree/main/AlgoSQL): I created an algorithm backtest in python which outputs a list of trades and stats based on the strategy's results.
+#### [AlgoSQL Project](https://github.com/guzmanwolfrank/SQL/tree/main/AlgoSQL): I created an algorithm backtest in python which outputs a list of trades and stats based on the strategy's results.
 
 This Data Analysis project takes us through programming, data cleansing, data analysis and data presentation via dashboard.  
 
