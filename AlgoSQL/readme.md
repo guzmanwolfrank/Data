@@ -6,3 +6,4 @@ which we then created a CSV for.
 
 We will import the csv and use SQL commands in SQLite to Query the data. 
 
+![Uploading SQLimage.jpg…]()
