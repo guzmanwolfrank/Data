@@ -1,7 +1,7 @@
 #### AlgoSQL Project 
 
 
-We created a backtest in our LINK project. This backtest created a dataframe, link, 
+We created a backtest in our (https://github.com/guzmanwolfrank/Data/tree/main/Algorithm_Project) project. This backtest created a dataframe, link, 
 which we then created a CSV for. 
 
 We will import the csv and use SQL commands in SQLite to Query the data. 
