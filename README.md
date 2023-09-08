@@ -18,9 +18,9 @@ This Data Analysis project takes us through programming, data cleansing, data an
 
 #
 
-#### [Project 2](link): I created an algorithm backtest in python which outputs a list of trades and stats based on the strategy's results.
+#### [SQL Project 2](link): I created an algorithm backtest in python which outputs a list of trades and stats based on the strategy's results.
 
-This Data Analysis project takes us through programming, data cleansing, data analysis and data presentation via dashboard.  
+This SQL project takes us through programming, data cleansing, data analysis and data presentation via dashboard.  
 
 
 
