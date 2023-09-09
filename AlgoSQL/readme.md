@@ -8,4 +8,4 @@ We will import the csv and use SQL commands in SQLite to Query the data.
 
 
 ![SQLimage](https://github.com/guzmanwolfrank/SQL/assets/29739578/a469847c-1dbf-48f5-9029-0a2caad8df92)
-![SQL-server.jpg](attachment:SQL-server.jpg)
+![SQL-server](https://github.com/guzmanwolfrank/SQL/assets/29739578/e9f8f028-518b-408f-90cc-9eb01fa64140)
