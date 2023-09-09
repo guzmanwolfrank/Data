@@ -6,4 +6,5 @@ This backtest created a [dataframe](link), which we then created a [CSV](link) f
 
 We will import the csv and use SQL commands in SQLite to Query the data. 
 
-![SQL-server](https://github.com/guzmanwolfrank/SQL/assets/29739578/e9f8f028-518b-408f-90cc-9eb01fa64140)
+
+![SQLimage](https://github.com/guzmanwolfrank/SQL/assets/29739578/66d83618-2cb4-4fe2-a793-c939fa32c564)
