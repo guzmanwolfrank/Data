@@ -2,7 +2,7 @@
 
 
 We created a backtest in our [Project](https://github.com/guzmanwolfrank/Data/tree/main/Algorithm_Project). 
-This backtest created a [dataframe](link), which we then created a [CSV](link) for. 
+This backtest created a dataframe, which we then created a CSV for. 
 
 We will import the csv and use SQL commands in SQLite to Query the data. 
 
