@@ -10,3 +10,4 @@ Follow the project in our [jupyter notebook](https://github.com/guzmanwolfrank/S
 
 
 ![SQLimage](https://github.com/guzmanwolfrank/SQL/assets/29739578/66d83618-2cb4-4fe2-a793-c939fa32c564)
+![266731439-4c3c7f68-1202-4f2f-81f9-538b4ca8a21e](https://github.com/guzmanwolfrank/SQL/assets/29739578/eefe1cf6-b8e0-452d-a5fd-d242926b9079)
