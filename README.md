@@ -21,7 +21,7 @@ This Data Analysis project takes us through programming, data cleansing, data an
 
 #
 
-#### [SQL Project 2](link): I created an algorithm backtest in python which outputs a list of trades and stats based on the strategy's results.
+#### [SQL Project 2](https://github.com/guzmanwolfrank/SQL/tree/main/AlgoSQL): I created an algorithm backtest in python which outputs a list of trades and stats based on the strategy's results.
 
 This SQL project takes us through programming, data cleansing, data analysis and data presentation via dashboard.  
 
