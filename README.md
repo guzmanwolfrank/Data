@@ -4,8 +4,6 @@
 This folder contains a collection of SQL based data projects. 
 
 #
-![SQL-server](https://github.com/guzmanwolfrank/SQL/assets/29739578/df8865c4-acde-4b84-bb2a-6939fb453e33)
-
 
 
 #### [AlgoSQL Project](https://github.com/guzmanwolfrank/SQL/tree/main/AlgoSQL): I created an algorithm backtest in python which outputs a list of trades and stats based on the strategy's results.
