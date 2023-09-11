@@ -4,7 +4,7 @@
 This folder contains a collection of SQL based data projects. 
 
 #
-![download](https://github.com/guzmanwolfrank/SQL/assets/29739578/0cf11994-9919-439e-8f20-88e74bf906ca)
+![sql-illustration](https://github.com/guzmanwolfrank/SQL/assets/29739578/70b5622c-70fe-4fd5-931e-4c6f0c723870)
 
 
 
