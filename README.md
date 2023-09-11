@@ -20,6 +20,7 @@ This Data Analysis project takes us through programming, data cleansing, data an
 ![SQLimage](https://github.com/guzmanwolfrank/SQL/assets/29739578/4c3c7f68-1202-4f2f-81f9-538b4ca8a21e)
 
 #
+![zills](https://github.com/guzmanwolfrank/SQL/assets/29739578/a639265d-c183-489c-b253-da3440f13d8f)
 
 #### [SQL Zillow](https://github.com/guzmanwolfrank/SQL/tree/main/SQL%20Zillow): Here we analyze Zillow Housing Data to check for highest cost locations, market trends and other patterns. 
 
