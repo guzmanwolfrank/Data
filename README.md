@@ -21,13 +21,13 @@ This Data Analysis project takes us through programming, data cleansing, data an
 
 #
 
-#### [SQL Zillow](https://github.com/guzmanwolfrank/SQL/tree/main/SQL%20Zillow): I created an algorithm backtest in python which outputs a list of trades and stats based on the strategy's results.
+#### [SQL Zillow](https://github.com/guzmanwolfrank/SQL/tree/main/SQL%20Zillow): Here we analyze Zillow Housing Data to check for highest cost locations, market trends and other patterns. 
 
-This SQL project takes us through programming, data cleansing, data analysis and data presentation via dashboard.  
+This SQL project takes us through Python programming, SQL data cleansing, data analysis and data presentation via dashboard.  
 
 
 
-    Software: SQL,Google Looker, Excel, GoogleSheets, Python 3.11, VS Code, Jupyter Notebook
-    Language: Python
-    Modules: Yfinance, Pandas, Plotly, Matplotlib, Tkinter
+    Software: SQL,Google Looker, Streamlit, GoogleSheets, Python 3.11, VS Code, Jupyter Notebook
+    Languages: SQL, Python
+    Modules: Seaborn, Pandas, SQLite3, Matplotlib
 
