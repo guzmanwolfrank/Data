@@ -1,5 +1,6 @@
 
-![download](https://github.com/guzmanwolfrank/SQL/assets/29739578/0ff88642-06bf-4530-8125-d4b5ffd733b4)
+![Screenshot 2023-09-15 105100](https://github.com/guzmanwolfrank/SQL/assets/29739578/4cc135a9-587e-4a77-8db3-7b5f44b645b5)
+
 
 
 Here we analyze Zillow Housing Data to check for highest cost locations, market trends and other patterns. 
