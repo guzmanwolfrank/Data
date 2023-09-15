@@ -31,4 +31,4 @@ This SQL project takes us through Python programming, SQL data cleansing, data a
     Languages: SQL, Python
     Modules: Seaborn, Pandas, SQLite3, Matplotlib
 
-![download](https://github.com/guzmanwolfrank/SQL/assets/29739578/e91994b3-5d6d-405c-b780-6005e4c75e23)
+![Screenshot 2023-09-15 105100](https://github.com/guzmanwolfrank/SQL/assets/29739578/52c192ea-e630-4222-a8c4-d72d600d6811)
