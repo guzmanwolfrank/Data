@@ -13,6 +13,5 @@ We will generate information for a fictional survey which details salaries, surv
         Languages: SQL, Python
         Modules: Seaborn, Pandas, SQLite3, Matplotlib
         
-![sqlsalarimg](https://github.com/guzmanwolfrank/SQL/assets/29739578/f20d9d79-05d4-4f1d-9579-24d4b0a18b90)
 
 
