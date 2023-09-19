@@ -14,7 +14,7 @@ This Data Analysis project takes us through programming, data cleansing, data an
 
 
 
-    Software: SQL,Google Looker, Excel, GoogleSheets, Python 3.11, VS Code, Jupyter Notebook
+    Software: SQL,Google Looker, Python 3.11, VS Code, Jupyter Notebook
     Language: Python
     Modules: Yfinance, Pandas, Plotly, Matplotlib, Tkinter
 ![SQLimage](https://github.com/guzmanwolfrank/SQL/assets/29739578/4c3c7f68-1202-4f2f-81f9-538b4ca8a21e)
@@ -23,7 +23,7 @@ This Data Analysis project takes us through programming, data cleansing, data an
 
 #### [SQL Zillow](https://github.com/guzmanwolfrank/SQL/tree/main/SQL%20Zillow): Here we analyze Zillow Housing Data to check for highest cost locations, market trends and other patterns. 
 
-This SQL project takes us through Python programming, SQL data cleansing, data analysis and data presentation via dashboard.  
+We will analyze Zillow's Top Tier Home Price Index and look for patterns and analyze data.  
 
 
 
@@ -33,15 +33,16 @@ This SQL project takes us through Python programming, SQL data cleansing, data a
 
 ![download](https://github.com/guzmanwolfrank/SQL/assets/29739578/6dbd6c7e-9a7e-4155-b54e-5e6e117f266b)
 
-#### [SQL Salary Data](https://github.com/guzmanwolfrank/SQL/tree/main/SQLSalaryData): Here we analyze Zillow Housing Data to check for highest cost locations, market trends and other patterns. 
-
-This SQL project takes us through Python programming, SQL data cleansing, data analysis and data presentation via dashboard.  
-
+#### [SQL Salary Data](https://github.com/guzmanwolfrank/SQL/tree/main/SQLSalaryData):This project is interesting in that it combines Python and SQL while generating fictional data using the Faker module. 
+We will generate information for a fictional survey which details salaries, survey questions, age and other data to then analyze and look for patterns in the data.  
 
 
-    Software: SQL,Google Looker, Streamlit, GoogleSheets, Python 3.11, VS Code, Jupyter Notebook
+
+
+
+    Software: SQL,Seaborn, Python 3.11, VS Code, Jupyter Notebook
     Languages: SQL, Python
-    Modules: Seaborn, Pandas, SQLite3, Matplotlib
+    Modules: Seaborn, Pandas, SQLite3, Matplotlib, Faker
 
 
 
