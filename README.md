@@ -33,7 +33,7 @@ This SQL project takes us through Python programming, SQL data cleansing, data a
 
 ![download](https://github.com/guzmanwolfrank/SQL/assets/29739578/6dbd6c7e-9a7e-4155-b54e-5e6e117f266b)
 
-#### [SQL Salary Data](https://github.com/guzmanwolfrank/SQL/tree/main/SQL%20Zillow): Here we analyze Zillow Housing Data to check for highest cost locations, market trends and other patterns. 
+#### [SQL Salary Data](https://github.com/guzmanwolfrank/SQL/tree/main/SQLSalaryData): Here we analyze Zillow Housing Data to check for highest cost locations, market trends and other patterns. 
 
 This SQL project takes us through Python programming, SQL data cleansing, data analysis and data presentation via dashboard.  
 
