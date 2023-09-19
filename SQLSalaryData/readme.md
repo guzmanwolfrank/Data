@@ -8,6 +8,6 @@ In this SQL project we combine Python and SQL while generating fictional data us
 We will generate information for a fictional survey which details salaries, survey questions, age and other data to then analyze and look for patterns in the data.
 
 
-Software: SQL,Seaborn, Python 3.11, VS Code, Jupyter Notebook
-Languages: SQL, Python
-Modules: Seaborn, Pandas, SQLite3, Matplotlib
+        Software: SQL,Seaborn, Python 3.11, VS Code, Jupyter Notebook
+        Languages: SQL, Python
+        Modules: Seaborn, Pandas, SQLite3, Matplotlib
