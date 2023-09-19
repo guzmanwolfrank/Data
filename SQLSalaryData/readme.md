@@ -4,6 +4,7 @@
 
 
 
+
 In this SQL project we combine Python and SQL while generating fictional data using the Faker module.
 We will generate information for a fictional survey which details salaries, survey questions, age and other data to then analyze and look for patterns in the data.
 
@@ -11,3 +12,7 @@ We will generate information for a fictional survey which details salaries, surv
         Software: SQL, Python 3.11, VS Code, Jupyter Notebook
         Languages: SQL, Python
         Modules: Seaborn, Pandas, SQLite3, Matplotlib
+        
+![sqlsalarimg](https://github.com/guzmanwolfrank/SQL/assets/29739578/f20d9d79-05d4-4f1d-9579-24d4b0a18b90)
+
+
