@@ -4,9 +4,7 @@
 
 
 
-In this SQL project combines Python and SQL while generating fictional data using the Faker module.
-
-
+In this SQL project we combine Python and SQL while generating fictional data using the Faker module.
 We will generate information for a fictional survey which details salaries, survey questions, age and other data to then analyze and look for patterns in the data.
 
 
