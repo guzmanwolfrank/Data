@@ -1,4 +1,4 @@
-## AlgoSQL Project 
+## SQL:  Algorithm Project 
 
 
 We created a backtest in our [Project](https://github.com/guzmanwolfrank/Data/tree/main/Algorithm_Project). 
