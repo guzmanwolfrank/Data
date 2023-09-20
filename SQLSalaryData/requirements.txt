@@ -1,0 +1,6 @@
+pandas==2.0.3
+random==3.10
+faker==19.6.1
+seaborn==0.12.2
+matplotlib.pyplot==3.7.2 
+sqlite3==3.43.1
