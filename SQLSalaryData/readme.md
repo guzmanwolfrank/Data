@@ -1,7 +1,6 @@
 ## SQL: Salary Data
 
-![sqlsalarimg](https://github.com/guzmanwolfrank/SQL/assets/29739578/8b0fd546-6254-45fe-9807-88bceb4fe859)
-
+![avgsal](https://github.com/guzmanwolfrank/SQL/assets/29739578/b161b907-2b5c-46a6-b4e3-21ab12414a54)
 
 
 
