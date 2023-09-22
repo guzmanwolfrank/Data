@@ -46,5 +46,5 @@ We will generate information for a fictional survey which details salaries, surv
 
 
 
-![sqlsalarimg](https://github.com/guzmanwolfrank/SQL/assets/29739578/9cc76d1a-65f7-404c-9a2c-1651f2f46ee3)
 
+![avgsal](https://github.com/guzmanwolfrank/SQL/assets/29739578/ab03cdfb-4e17-4255-9f6e-6cf590fbe930)
