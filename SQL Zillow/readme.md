@@ -8,6 +8,8 @@ Here we analyze Zillow Housing Data to check for highest cost locations, market 
 
 This SQL project takes us through Python programming, SQL data cleansing, data analysis and data presentation via dashboard.  
 
+To view the project Jupyter notebook, click [here](https://github.com/guzmanwolfrank/SQL/blob/main/SQL%20Zillow/ZillowProject.ipynb).
+
 
 ## Tech Stack 
 
