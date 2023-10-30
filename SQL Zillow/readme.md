@@ -25,7 +25,10 @@ Overall, using SQLite, SQL Queries and Python we were able to analyze Zillow Top
 
 
 ## Tech Stack 
-
+seaborn==0.12.2 <br/>
+pandas==2.0.3 <br/>
+matplotlib==3.7.2 <br/>
+numpy==1.25.2  <br/>
 
     Software: SQL,Google Looker, Streamlit, GoogleSheets, Python 3.11, VS Code, Jupyter Notebook
     Languages: SQL, Python
