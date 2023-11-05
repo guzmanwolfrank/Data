@@ -1,7 +1,7 @@
 # Data & SQL
 
 
-This folder contains a collection of SQL based data projects. 
+This folder contains a collection of SQL and Data projects. 
 
 #
 ![sql-illustration](https://github.com/guzmanwolfrank/SQL/assets/29739578/70b5622c-70fe-4fd5-931e-4c6f0c723870)
