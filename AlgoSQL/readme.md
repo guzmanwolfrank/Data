@@ -7,7 +7,7 @@
 We created a backtest in our Project. This backtest created a dataframe, which we then created a CSV for. We will import the csv and use SQL commands in SQLite to Query the data.
 <br/>
 
-Follow the project in our [jupyter notebook](https://github.com/guzmanwolfrank/SQL/blob/main/AlgoSQL/SQLproject.ipynb).
+## View code and the project in our [jupyter notebook](https://github.com/guzmanwolfrank/SQL/blob/main/AlgoSQL/SQLproject.ipynb).
 
 ## Objective
 
