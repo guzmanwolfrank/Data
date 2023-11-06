@@ -13,7 +13,7 @@ This SQL project takes us through Python programming, SQL data cleansing, data a
 
 ## Goals 
 
-Our goal is to use SQL queries to help analyze data from Zillow's Top Tier Housing Data. Our goals are to see what changes have occured on Top Tier Home Values in all 50 states and Washington DC.
+Our goal is to use SQL queries to help analyze data from Zillow's Top Tier Housing Data. Our goals are also to see what changes have occured on Top Tier Home Values in all 50 states and Washington DC.
 
 
 ## Initial Questions 
