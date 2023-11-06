@@ -71,17 +71,19 @@ We can use the output of the SQL Queries to construct visualizations such as his
 
 
 ## Findings 
-We ran 7 SQL Queries using SQLite and Python to realize that home values, in Zillow's Top Tier Home Value Data have risen dramatically.
-
-We also learned on Chart 5, a histogram, that the amount of mid range priced homes is dwindling. Homes across the Top Tier are becoming more expensive and concentrating in a handful of states.
 
 ![chart5](https://github.com/guzmanwolfrank/Data-SQL/assets/29739578/36d6666c-ba4f-4c10-ac51-c548a6b55afe)
 
-Chart 4 also taught us some new developments, surprisingly to some, Montana has had the highest overall change in Top Tier Home Value across the United States dating back to 2019.
 
 ![chart4](https://github.com/guzmanwolfrank/Data-SQL/assets/29739578/9e04d0cd-f8c4-497e-9db0-ba36117672e5)
 
-Overall, using SQLite, SQL Queries and Python we were able to analyze Zillow Top Tier Home Data for emerging trends and specific locations with higher values.
+
+Our analysis revealed compelling trends and findings:
+
+Home values have witnessed a substantial increase over time, indicating the robust growth of the real estate market.
+We observed a concentration of top-tier homes in a select few states, with mid-range priced homes becoming scarcer.
+Surprisingly, Montana emerged as the state with the highest overall change in top-tier home values since 2019, showcasing the dynamism of regional markets.
+By employing SQL queries and Python programming, we harnessed the power of data to draw meaningful conclusions and generate informative visualizations. These insights can aid both homebuyers and real estate professionals in making informed decisions in the ever-evolving housing market.
 
 
 ## Conclusion 
@@ -94,13 +96,6 @@ Average Home Values: We examined the average home values by state in both Septem
 Change in ZHVI: We identified the states with the highest changes in Zillow Home Value Index (ZHVI) to gain insights into which regions experienced the most significant shifts in property values.
 
 Top 5 States with Highest Average Top Tier Home Values: We determined the top five states with the highest average top-tier home values, shedding light on the most sought-after real estate markets.
-
-Our analysis revealed compelling trends and findings:
-
-Home values have witnessed a substantial increase over time, indicating the robust growth of the real estate market.
-We observed a concentration of top-tier homes in a select few states, with mid-range priced homes becoming scarcer.
-Surprisingly, Montana emerged as the state with the highest overall change in top-tier home values since 2019, showcasing the dynamism of regional markets.
-By employing SQL queries and Python programming, we harnessed the power of data to draw meaningful conclusions and generate informative visualizations. These insights can aid both homebuyers and real estate professionals in making informed decisions in the ever-evolving housing market.
 
 As the real estate landscape continues to transform, data-driven analysis remains essential for understanding market dynamics and making strategic choices. This project serves as a testament to the valuable insights that can be gleaned through a combination of data analysis tools and techniques.
 
