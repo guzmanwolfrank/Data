@@ -75,7 +75,11 @@ We ran 7 SQL Queries using SQLite and Python to realize that home values, in Zil
 
 We also learned on Chart 5, a histogram, that the amount of mid range priced homes is dwindling. Homes across the Top Tier are becoming more expensive and concentrating in a handful of states.
 
+![chart5](https://github.com/guzmanwolfrank/Data-SQL/assets/29739578/36d6666c-ba4f-4c10-ac51-c548a6b55afe)
+
 Chart 4 also taught us some new developments, surprisingly to some, Montana has had the highest overall change in Top Tier Home Value across the United States dating back to 2019.
+
+![chart4](https://github.com/guzmanwolfrank/Data-SQL/assets/29739578/9e04d0cd-f8c4-497e-9db0-ba36117672e5)
 
 Overall, using SQLite, SQL Queries and Python we were able to analyze Zillow Top Tier Home Data for emerging trends and specific locations with higher values.
 
