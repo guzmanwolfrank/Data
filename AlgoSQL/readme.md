@@ -58,6 +58,7 @@ A simple buy strategy on a moving average cross was able to beat the volatility 
 
 By using SQL queries we were also able to identify certain trades along with analyzing data.
 
+![chart](https://github.com/guzmanwolfrank/Data-SQL/assets/29739578/46e1f1ee-6ecf-4005-924c-f52f0010c5a2)
 
 ## Tech Stack
 seaborn==0.12.2 <br/>
