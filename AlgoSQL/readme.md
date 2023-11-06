@@ -1,6 +1,9 @@
 
 # SQL Algo Project
 
+![266731439-4c3c7f68-1202-4f2f-81f9-538b4ca8a21e](https://github.com/guzmanwolfrank/SQL/assets/29739578/eefe1cf6-b8e0-452d-a5fd-d242926b9079)
+
+
 We created a backtest in our Project. This backtest created a dataframe, which we then created a CSV for. We will import the csv and use SQL commands in SQLite to Query the data. Follow the project in our jupyter notebook.
 
 ## Objective
@@ -35,11 +38,8 @@ requirements file copy
 
 ## Badges
 
-Add badges from somewhere like: [shields.io](https://shields.io/)
-
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
-[![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
-[![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
+
 
 
 ## License
@@ -55,4 +55,3 @@ Follow the project in our [jupyter notebook](https://github.com/guzmanwolfrank/S
 
 
 
-![266731439-4c3c7f68-1202-4f2f-81f9-538b4ca8a21e](https://github.com/guzmanwolfrank/SQL/assets/29739578/eefe1cf6-b8e0-452d-a5fd-d242926b9079)
