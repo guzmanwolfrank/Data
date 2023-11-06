@@ -12,6 +12,13 @@ My objective was to run SQL Queries on data in order to analyze the results of t
 
 We can then discover if the backtest strategy was profitable enough to continue developing and perhaps deploy.  
 
+## Deployment
+
+To deploy this project run the [jupyter notebook](https://github.com/guzmanwolfrank/SQL/blob/main/AlgoSQL/SQLproject.ipynb) in your IDE of choice.  If you are using VSCode, simply download the notebook file and run the notebook with a python kernel. <br/>
+
+Alternatively, you can use Google Drive and [Colaboratory](https://colab.research.google.com/?utm_source=scs-index).  <br/>
+
+In Google Drive in your web browser, open the Jupyter notebook with Colaboratory. Run the cells in this notebook to see:  the data, solutions to questions asked and the results of the backtest. 
 
 ## Challenges
 
@@ -23,13 +30,23 @@ I found that a seaborn boxplot could help me visualize the daily returns in the 
 
 ![boxplot](https://github.com/guzmanwolfrank/Data-SQL/assets/29739578/cae641fc-a347-4099-8a8c-41d4963bb8c9)
 
-## Deployment
+# Queries 
+Some of the Queries involved in analyzing the results in this project are:  
 
-To deploy this project run the [jupyter notebook](https://github.com/guzmanwolfrank/SQL/blob/main/AlgoSQL/SQLproject.ipynb) in your IDE of choice.  If you are using VSCode, simply download the notebook file and run the notebook with a python kernel. <br/>
 
-Alternatively, you can use Google Drive and [Colaboratory](https://colab.research.google.com/?utm_source=scs-index).  <br/>
 
-In Google Drive in your web browser, open the Jupyter notebook with Colaboratory. Run the cells in this notebook to see:  the data, solutions to questions asked and the results of the backtest. 
+## Conclusion 
+
+In conclusion, after querying results, we see that the algorithmic backtest strategy was more profitable than the benchmark of buy and hold on TQQQ stock.
+
+The standard deviation made it predictable and risk averse, while the signals generated trades that were highly profitable and had limited drawdown and losing trades and days.
+
+The strategy return ended up being $32,000 higher than the benchmark of buy and hold on TQQQ.
+
+A simple buy strategy on a moving average cross was able to beat the volatility and drawdown that TQQQ sustained on a buy and hold approach.
+
+By using SQL queries we were also able to identify certain trades along with analyzing data.
+
 
 ## Tech Stack
 seaborn==0.12.2 <br/>
