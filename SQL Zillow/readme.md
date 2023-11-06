@@ -20,7 +20,7 @@ Lorem ipsuim quid pro quo.  The quick brown fox jumps over the lazy dog.
 Lorem ipsum quid pro quo. 
 
 
-## :open_file_folder:   Data Dictionary
+## Data Dictionary
 **Variable** |    **Value**    | **Meaning**
 ---|---|---
 *Year* | Datetime object | The year of the data source
