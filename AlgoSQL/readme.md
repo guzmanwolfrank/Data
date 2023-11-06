@@ -33,7 +33,9 @@ I found that a seaborn boxplot could help me visualize the daily returns in the 
 # Queries 
 Some of the SQL (sqlite) Queries involved in analyzing the results in this project are:  
 
-![carbon (6)](https://github.com/guzmanwolfrank/Data-SQL/assets/29739578/959fa729-d6c9-453e-9831-bcec718725cd)
+### 1. What was the average profit per trade?
+
+![carbon (7)](https://github.com/guzmanwolfrank/Data-SQL/assets/29739578/6f1d056d-6183-4e2a-82a6-7be9d35ef3dc)
 
 
 ## Conclusion 
