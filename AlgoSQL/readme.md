@@ -29,8 +29,11 @@ To deploy this project run the [jupyter notebook](https://github.com/guzmanwolfr
 
 
 ## Tech Stack
-
-requirements file copy 
+seaborn==0.12.2 <br/>
+yfinance==0.2.27 <br/>
+pandas==2.0.3 <br/>
+matplotlib==3.7.2 <br/>
+numpy==1.25.2 <br/>
 
 
 ## Badges
