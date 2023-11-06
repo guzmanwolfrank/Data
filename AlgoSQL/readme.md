@@ -31,7 +31,7 @@ I found that a seaborn boxplot could help me visualize the daily returns in the 
 ![boxplot](https://github.com/guzmanwolfrank/Data-SQL/assets/29739578/cae641fc-a347-4099-8a8c-41d4963bb8c9)
 
 # Queries 
-Some of the Queries involved in analyzing the results in this project are:  
+The SQL (sqlite) Queries involved in analyzing the results in this project are:  
 
 ![carbon (6)](https://github.com/guzmanwolfrank/Data-SQL/assets/29739578/959fa729-d6c9-453e-9831-bcec718725cd)
 
