@@ -19,7 +19,7 @@ Lorem ipsuim quid pro quo.  The quick brown fox jumps over the lazy dog.
 
 Lorem ipsum quid pro quo. 
 
-## Data Dictionary 
+
 ## :open_file_folder:   Data Dictionary
 **Variable** |    **Value**    | **Meaning**
 ---|---|---
