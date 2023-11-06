@@ -23,15 +23,12 @@ Lorem ipsum quid pro quo.
 ## Data Dictionary
 **Variable** |    **Value**    | **Meaning**
 ---|---|---
-*Year* | Datetime object | The year of the data source
-*Month* | Integer ranging from 1-12 | The month of the data source
-*All Items Value* | Float | All items CPI in U.S. city average, seasonally adjusted
-*Apparel Value* | Float | Apparel items CPI in U.S. city average, seasonally adjusted
-*Food Value* | Float | Food CPI in U.S. city average, seasonally adjusted
-*Energy Value* | Float | Energy CPI in U.S. city average, seasonally adjusted
-*Gasoline Value* | Float | Gasoline CPI in U.S. city average, seasonally adjusted
-*Medical Value* | Float | Medical CPI in U.S. city average, seasonally adjusted
-*Transportation Value*| Float | Transportation CPI in U.S. city average, seasonally adjusted
+*Date* | Datetime object | The year of the data source
+
+*SizeRank* | Float | A rank number is assigned to States.  The number 1 is the hihgest ranked state according to population and size. 
+*State* | String | Name of state 
+*ZHVI Value* | Float | A measure of the typical home value and market changes across a given region and housing type. It reflects the typical value for homes in the 35th to 65th percentile range. 
+
 
 ## Project Planning 
 
