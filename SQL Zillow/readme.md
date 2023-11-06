@@ -63,6 +63,11 @@ Here is a list of SQL Queries for analysis:
 
 ![queries](https://github.com/guzmanwolfrank/Data-SQL/assets/29739578/4557ae9a-5547-4727-945d-18aa375493c0)
 
+## Seaborn Visualizations 
+
+We can use the output of the SQL Queries to construct visualizations such as histograms of the data we have cleaned and queried.
+
+
 
 ## Findings 
 We ran 7 SQL Queries using SQLite and Python to realize that home values, in Zillow's Top Tier Home Value Data have risen dramatically.
