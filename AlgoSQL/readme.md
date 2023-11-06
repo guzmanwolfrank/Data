@@ -35,8 +35,7 @@ Some of the SQL (sqlite) Queries involved in analyzing the results in this proje
 
 ### 1. What was the average profit per trade?
 
-![carbon (7)](https://github.com/guzmanwolfrank/Data-SQL/assets/29739578/6f1d056d-6183-4e2a-82a6-7be9d35ef3dc)
-
+![carbon (8)](https://github.com/guzmanwolfrank/Data-SQL/assets/29739578/42680be6-f14b-496e-b42e-ebe1122d3a09)
 
 ## Conclusion 
 
