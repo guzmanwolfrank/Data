@@ -37,6 +37,11 @@ Some of the SQL (sqlite) Queries involved in analyzing the results in this proje
 
 ![carbon (8)](https://github.com/guzmanwolfrank/Data-SQL/assets/29739578/42680be6-f14b-496e-b42e-ebe1122d3a09)
 
+### 2.  Now, let's use a SQL Query to see what the profitable trades look like. 
+    How many were there? What were their profit amounts in relation to count? 
+
+![carbon (9)](https://github.com/guzmanwolfrank/Data-SQL/assets/29739578/0ea9022a-8e7e-44f1-91e3-c011f9293039)
+
 ## Conclusion 
 
 In conclusion, after querying results, we see that the algorithmic backtest strategy was more profitable than the benchmark of buy and hold on TQQQ stock.
