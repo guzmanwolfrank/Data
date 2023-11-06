@@ -24,7 +24,6 @@ Lorem ipsum quid pro quo.
 **Variable** |    **Value**    | **Meaning**
 ---|---|---
 *Date* | Datetime object | The year of the data source
-
 *SizeRank* | Float | A rank number is assigned to States.  The number 1 is the hihgest ranked state according to population and size. 
 *State* | String | Name of state 
 *ZHVI Value* | Float | A measure of the typical home value and market changes across a given region and housing type. It reflects the typical value for homes in the 35th to 65th percentile range. 
