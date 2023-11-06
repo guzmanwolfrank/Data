@@ -57,7 +57,9 @@ Some of the  initial questions we hope to explore and answer are:
 
         In order to do so, we must the load the CSV data into a SQLite Database and connect to the database.  
 
-        Here is a list of SQL Queries for analysis:
+<br/>
+
+Here is a list of SQL Queries for analysis:
 
 ![queries](https://github.com/guzmanwolfrank/Data-SQL/assets/29739578/4557ae9a-5547-4727-945d-18aa375493c0)
 
