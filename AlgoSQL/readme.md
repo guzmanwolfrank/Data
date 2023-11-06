@@ -33,6 +33,7 @@ I found that a seaborn boxplot could help me visualize the daily returns in the 
 # Queries 
 Some of the Queries involved in analyzing the results in this project are:  
 
+![carbon (6)](https://github.com/guzmanwolfrank/Data-SQL/assets/29739578/959fa729-d6c9-453e-9831-bcec718725cd)
 
 
 ## Conclusion 
