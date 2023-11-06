@@ -21,6 +21,7 @@ A challenge I had was deciding what visualization would help display standard de
 
 I found that a seaborn boxplot could help me visualize the daily returns in the simplest format. 
 
+![boxplot](https://github.com/guzmanwolfrank/Data-SQL/assets/29739578/cae641fc-a347-4099-8a8c-41d4963bb8c9)
 
 ## Deployment
 
