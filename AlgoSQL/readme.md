@@ -25,8 +25,10 @@ I found that a seaborn boxplot could help me visualize the daily returns in the 
 
 ## Deployment
 
-To deploy this project run the [jupyter notebook](https://github.com/guzmanwolfrank/SQL/blob/main/AlgoSQL/SQLproject.ipynb).
+To deploy this project run the [jupyter notebook](https://github.com/guzmanwolfrank/SQL/blob/main/AlgoSQL/SQLproject.ipynb) in your IDE of choice.  If you are using VSCode, simply download the notebook file and run the notebook with a python kernel.
 
+Alternatively, you can use Google Drive and [Colaboratory](https://colab.research.google.com/?utm_source=scs-index)
+In Google Drive in your web browser, open the Jupyter notebook with Colaboratory. Run the cells in this notebook to see the data, solutions to questions asked and to the results of the backtest. 
 
 ## Tech Stack
 seaborn==0.12.2 <br/>
@@ -46,12 +48,6 @@ numpy==1.25.2 <br/>
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
-
-
-We created a backtest in our [Project](#). 
-This backtest created a dataframe, which we then created a CSV for. 
-We will import the csv and use SQL commands in SQLite to Query the data. 
-Follow the project in our [jupyter notebook](https://github.com/guzmanwolfrank/SQL/blob/main/AlgoSQL/SQLproject.ipynb).
 
 
 
