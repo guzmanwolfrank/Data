@@ -13,11 +13,24 @@ To view the project Jupyter notebook, click [here](https://github.com/guzmanwolf
 
 ## Goals 
 
-Lorem ipsuim quid pro quo.  The quick brown fox jumps over the lazy dog. 
+Our goal is to use SQL queries to help analyze data from Zillow's Top Tier Housing Data. Our goals are to see what changes have occured on Top Tier Home Values in all 50 states and Washington DC.
+
 
 ## Initial Questions 
 
-Lorem ipsum quid pro quo. 
+Some of the  initial questions we hope to explore and answer are:
+
+        What are the average home values by state in September 2019?  
+
+        What are the average home values by state in Septemberr 2023? 
+
+        What states have the highest change in ZHVI? 
+
+        What are the top 5 states in terms of Highest Average Top Tier Home Values? 
+
+      
+
+
 
 
 ## Data Dictionary
