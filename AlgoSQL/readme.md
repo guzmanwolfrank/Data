@@ -25,11 +25,7 @@ I found that a seaborn boxplot could help me visualize the daily returns in the 
 
 ## Deployment
 
-To deploy this project run
-
-```bash
-  npm run deploy
-```
+To deploy this project run the [jupyter notebook](https://github.com/guzmanwolfrank/SQL/blob/main/AlgoSQL/SQLproject.ipynb).
 
 
 ## Tech Stack
