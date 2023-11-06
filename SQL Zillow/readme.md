@@ -85,7 +85,26 @@ Overall, using SQLite, SQL Queries and Python we were able to analyze Zillow Top
 
 
 ## Conclusion 
+In this project, we embarked on a journey to explore Zillow's Top Tier Home Value data with the goal of understanding market trends, changes in home values, and emerging patterns in the real estate market. Through a combination of Python programming, SQL queries, data cleansing, and visualization, we delved into the dataset to uncover valuable insights.
 
+Our initial questions guided our analysis, and we found answers to some key inquiries:
+
+Average Home Values: We examined the average home values by state in both September 2019 and September 2023, allowing us to observe the evolving landscape of top-tier home values over time.
+
+Change in ZHVI: We identified the states with the highest changes in Zillow Home Value Index (ZHVI) to gain insights into which regions experienced the most significant shifts in property values.
+
+Top 5 States with Highest Average Top Tier Home Values: We determined the top five states with the highest average top-tier home values, shedding light on the most sought-after real estate markets.
+
+Our analysis revealed compelling trends and findings:
+
+Home values have witnessed a substantial increase over time, indicating the robust growth of the real estate market.
+We observed a concentration of top-tier homes in a select few states, with mid-range priced homes becoming scarcer.
+Surprisingly, Montana emerged as the state with the highest overall change in top-tier home values since 2019, showcasing the dynamism of regional markets.
+By employing SQL queries and Python programming, we harnessed the power of data to draw meaningful conclusions and generate informative visualizations. These insights can aid both homebuyers and real estate professionals in making informed decisions in the ever-evolving housing market.
+
+As the real estate landscape continues to transform, data-driven analysis remains essential for understanding market dynamics and making strategic choices. This project serves as a testament to the valuable insights that can be gleaned through a combination of data analysis tools and techniques.
+
+In conclusion, we've unlocked valuable information about top-tier home values, changes in ZHVI, and the evolving real estate market, paving the way for more informed decision-making in the world of real estate.
 
 ## Tech Stack 
 seaborn==0.12.2 <br/>
