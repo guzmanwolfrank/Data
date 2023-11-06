@@ -51,6 +51,15 @@ Some of the  initial questions we hope to explore and answer are:
 
 ## Exploring the Data 
 
+        # SQL Queries 
+
+        We will use SQL Queries to explore the data within the ZHVI file and dataframe we build off of it. 
+
+        In order to do so, we must the load the CSV data into a SQLite Database and connect to the database.  
+
+        Here is a list of SQL Queries for analysis:
+
+
 
 ## Findings 
 We ran 7 SQL Queries using SQLite and Python to realize that home values, in Zillow's Top Tier Home Value Data have risen dramatically.
