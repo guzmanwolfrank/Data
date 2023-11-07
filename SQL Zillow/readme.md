@@ -94,7 +94,6 @@ Change in ZHVI: We identified the states with the highest changes in Zillow Home
 
 Top 5 States with Highest Average Top Tier Home Values: We determined the top five states with the highest average top-tier home values, shedding light on the most sought-after real estate markets.
 
-As the real estate landscape continues to transform, data-driven analysis remains essential for understanding market dynamics and making strategic choices. This project serves as a testament to the valuable insights that can be gleaned through a combination of data analysis tools and techniques.
 
 In conclusion, we've unlocked valuable information about top-tier home values, changes in ZHVI, and the evolving real estate market, paving the way for more informed decision-making in the world of real estate.
 
