@@ -71,12 +71,13 @@ We can use the output of the SQL Queries to construct visualizations such as his
 
 
 ## Findings 
-Our analysis revealed compelling trends and findings:
+Our analysis revealed compelling trends and findings: <br/>
 
-Home values have witnessed a substantial increase over time, indicating the robust growth of the real estate market.
-We observed a concentration of top-tier homes in a select few states, with mid-range priced homes becoming scarcer.
-Surprisingly, Montana emerged as the state with the highest overall change in top-tier home values since 2019, showcasing the dynamism of regional markets.
-By employing SQL queries and Python programming, we harnessed the power of data to draw meaningful conclusions and generate informative visualizations. These insights can aid both homebuyers and real estate professionals in making informed decisions in the ever-evolving housing market.
+Home values have witnessed a substantial increase over time, indicating the robust growth of the real estate market.<br/>
+
+We observed a concentration of top-tier homes in a select few states, with mid-range priced homes becoming scarcer.<br/>
+
+Surprisingly, Montana emerged as the state with the highest overall change in top-tier home values since 2019.<br/>
 
 ![chart5](https://github.com/guzmanwolfrank/Data-SQL/assets/29739578/36d6666c-ba4f-4c10-ac51-c548a6b55afe)
 
