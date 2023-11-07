@@ -88,8 +88,6 @@ Surprisingly, Montana emerged as the state with the highest overall change in to
 ## Conclusion 
 In this project, we embarked on a journey to explore Zillow's Top Tier Home Value data with the goal of understanding market trends, changes in home values, and emerging patterns in the real estate market. Through a combination of Python programming, SQL queries, data cleansing, and visualization, we delved into the dataset to uncover valuable insights.
 
-Our initial questions guided our analysis, and we found answers to some key inquiries:
-
 Average Home Values: We examined the average home values by state in both September 2019 and September 2023, allowing us to observe the evolving landscape of top-tier home values over time.
 
 Change in ZHVI: We identified the states with the highest changes in Zillow Home Value Index (ZHVI) to gain insights into which regions experienced the most significant shifts in property values.
