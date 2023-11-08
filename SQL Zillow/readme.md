@@ -67,7 +67,6 @@ Here is a list of SQL Queries for analysis:
 
 We can use the output of the SQL Queries to construct visualizations such as histograms of the data we have cleaned and queried.
 
-![visuals](https://github.com/guzmanwolfrank/Data-SQL/assets/29739578/be0040bb-ac21-4af3-a1ba-b40926449c43)
 
 
 ## Findings 
