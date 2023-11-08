@@ -42,13 +42,6 @@ Some of the  initial questions we hope to explore and answer are:
 *ZHVI Value* | Float | A measure of the typical home value and market changes across a given region and housing type. It reflects the typical value for homes in the 35th to 65th percentile range. 
 
 
-## Project Planning 
-
-    Acquire
-    Prepare
-    Explore
-    Model 
-
 ## Exploring the Data 
 
         # SQL Queries 
