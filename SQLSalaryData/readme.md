@@ -14,3 +14,45 @@ We will generate information for a fictional survey which details salaries, surv
         
 
 
+## Project Description
+
+Goals 
+
+Initial Questions 
+
+Data Dictionary 
+## :open_file_folder:   Data Dictionary
+**Variable** |    **Value**    | **Meaning**
+---|---|---
+*Year* | Datetime object | The year of the data source
+*Month* | Integer ranging from 1-12 | The month of the data source
+*All Items Value* | Float | All items CPI in U.S. city average, seasonally adjusted
+*Apparel Value* | Float | Apparel items CPI in U.S. city average, seasonally adjusted
+*Food Value* | Float | Food CPI in U.S. city average, seasonally adjusted
+*Energy Value* | Float | Energy CPI in U.S. city average, seasonally adjusted
+*Gasoline Value* | Float | Gasoline CPI in U.S. city average, seasonally adjusted
+*Medical Value* | Float | Medical CPI in U.S. city average, seasonally adjusted
+*Transportation Value*| Float | Transportation CPI in U.S. city average, seasonally adjusted
+
+
+
+Project Planning / Process 
+
+Acquire
+Prepare
+Explore
+
+
+Exploring the Data 
+
+Findings 
+
+Conclusion 
+
+Tech Stack / Requirements 
+
+Badges 
+
+Licenses 
+
+
