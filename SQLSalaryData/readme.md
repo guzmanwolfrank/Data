@@ -16,12 +16,11 @@ We will generate information for a fictional survey which details salaries, surv
 
 ## Project Description
 
-Goals 
+## Goals 
 
-Initial Questions 
-
-Data Dictionary 
-## :open_file_folder:   Data Dictionary
+## Initial Questions 
+ 
+##  Data Dictionary
 **Variable** |    **Value**    | **Meaning**
 ---|---|---
 *Year* | Datetime object | The year of the data source
@@ -36,23 +35,23 @@ Data Dictionary
 
 
 
-Project Planning / Process 
+## Project Planning / Process 
 
 Acquire
 Prepare
 Explore
 
 
-Exploring the Data 
+## Exploring the Data 
 
-Findings 
+## Findings 
 
-Conclusion 
+## Conclusion 
 
-Tech Stack / Requirements 
+## Tech Stack / Requirements 
 
-Badges 
+## Badges 
 
-Licenses 
+## Licenses 
 
 
