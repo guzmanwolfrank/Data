@@ -9,7 +9,7 @@ In this SQL project we combine Python and SQL while generating fictional data us
 
         Software: SQL, Python 3.11, VS Code, Jupyter Notebook
         Languages: SQL, Python
-        Modules: Seaborn, Pandas, SQLite3, Matplotlib
+        Modules: Faker, Seaborn, Pandas, SQLite3, Matplotlib
         
 ## Goals 
 To practice using SQL Queries to solve problems and analyze randomly generated data.  Another goal was to simply use the Faker module and see how flexible it is generating data for 
