@@ -11,7 +11,7 @@ In this SQL project we combine Python and SQL while generating fictional data us
         Languages: SQL, Python
         Modules: Faker, Seaborn, Pandas, SQLite3, Matplotlib
 
-## To view the project code and Jupyter notebook, click [here](#)
+## To view the project code and Jupyter notebook, click [here](https://github.com/guzmanwolfrank/Data-SQL/blob/main/SQLSalaryData/RandomData.ipynb)
 
 
 ## Goals 
