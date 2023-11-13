@@ -63,6 +63,11 @@ Prepare:  Prepare the data by cleaning, filtering n/a values, and sorting the da
 Explore:  I plan to use Seaborn and SQLite Python module to explore and visualize the information.  I am using SQL Queries via SQLite in order to answer my initial queries. 
 
 ## Exploring the Data 
+![sqlitequerieslabor](https://github.com/guzmanwolfrank/Data-SQL/assets/29739578/9fa4981c-8f90-4816-8615-54180a503756)
+
+
+
+
 
 ## Findings 
 
