@@ -70,8 +70,20 @@ Explore:  I plan to use Seaborn and SQLite Python module to explore and visualiz
 
 ## Tech Stack / Requirements 
 
-## Badges 
+pandas==2.0.3 <br/> 
+random==3.10 <br/>
+faker==19.6.1 <br/>
+seaborn==0.12.2 <br/>
+matplotlib.pyplot==3.7.2 <br/>
+sqlite3==3.43.1 <br/>
 
-## Licenses 
+
+## Badges
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
+
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
+
 
 
