@@ -20,6 +20,22 @@ visualization purposes.  Generating Fake data is also useful in algorithmic rese
 
 ## Initial Questions 
 
+Labor Data Analysis
+
+High Earners: Identify and analyze individuals earning above $200,000.
+
+Top Earner: Determine the individual with the highest salary and their occupation.
+
+Youngest Worker: Identify the youngest individual in the dataset and their details.
+
+Occupation Salaries: Calculate and analyze average salaries for each occupation.
+
+Top 10 Paying Occupations: Rank and analyze the top 10 highest-paying occupations.
+
+Education Level vs. Salary: Analyze the relationship between education level and average salary.
+
+Job Satisfaction by State: Calculate and analyze average job satisfaction scores for each state.
+
 
  
 ##  Data Dictionary
