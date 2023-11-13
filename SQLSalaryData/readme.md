@@ -70,6 +70,8 @@ Explore:  I plan to use Seaborn and SQLite Python module to explore and visualiz
 *Note:  Here we see the consequence of using a fake data generator module such as Faker but will reap the benefit in having random data, visualized. 
 ![sqlqueries2](https://github.com/guzmanwolfrank/Data-SQL/assets/29739578/4503c161-c674-4a00-bb8f-625b0398894d)
 
+![scattersqlquery](https://github.com/guzmanwolfrank/Data-SQL/assets/29739578/5b4ea124-209d-4c7a-a1de-ce3f40e9bb75)
+
 
 ## Findings 
 
