@@ -45,21 +45,15 @@ Job Satisfaction by State: Calculate and analyze average job satisfaction scores
 *Sex* | String  | Sex
 *Age* | Float | Age
 *Occupation* | String | Occupation
-*Country of Birth * | String | Country of Birth
-*Education* | Float | Medical CPI in U.S. city average, seasonally adjusted
-*Salary*| Float | Transportation CPI in U.S. city average, seasonally adjusted
-*Salary*| Float | Transportation CPI in U.S. city average, seasonally adjusted
-*Salary*| Float | Transportation CPI in U.S. city average, seasonally adjusted
-*Salary*| Float | Transportation CPI in U.S. city average, seasonally adjusted
-*Salary*| Float | Transportation CPI in U.S. city average, seasonally adjusted
-*Salary*| Float | Transportation CPI in U.S. city average, seasonally adjusted
-*Salary*| Float | Transportation CPI in U.S. city average, seasonally adjusted
-*Salary*| Float | Transportation CPI in U.S. city average, seasonally adjusted
-*Salary*| Float | Transportation CPI in U.S. city average, seasonally adjusted
-*Salary*| Float | Transportation CPI in U.S. city average, seasonally adjusted
-*Salary*| Float | Transportation CPI in U.S. city average, seasonally adjusted
-*Salary*| Float | Transportation CPI in U.S. city average, seasonally adjusted
-
+*Country of Birth* | String | Country of Birth
+*Education* | String | Education 
+*Salary*| Float | Salary
+*Email*| String | Email
+*Years of Experience*| Float | Years of Experience 
+*Avg Salary for Occupation*| Float | Average salary for the occupation 
+*State*| String | State
+*Satisfaction Score*| Float | Number from 1 to 10 defining the satisfaction of the employee 
+*Work Location*| String | Location 
 
 
 ## Project Planning / Process 
