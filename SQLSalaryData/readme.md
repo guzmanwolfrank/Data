@@ -39,15 +39,26 @@ Job Satisfaction by State: Calculate and analyze average job satisfaction scores
 ##  Data Dictionary
 **Variable** |    **Value**    | **Meaning**
 ---|---|---
-*Year* | Datetime object | The year of the data source
-*Month* | Integer ranging from 1-12 | The month of the data source
-*All Items Value* | Float | All items CPI in U.S. city average, seasonally adjusted
-*Apparel Value* | Float | Apparel items CPI in U.S. city average, seasonally adjusted
-*Food Value* | Float | Food CPI in U.S. city average, seasonally adjusted
-*Energy Value* | Float | Energy CPI in U.S. city average, seasonally adjusted
-*Gasoline Value* | Float | Gasoline CPI in U.S. city average, seasonally adjusted
-*Medical Value* | Float | Medical CPI in U.S. city average, seasonally adjusted
-*Transportation Value*| Float | Transportation CPI in U.S. city average, seasonally adjusted
+*RecordID* | Float | The id number of the entry or record
+*First* |String| First Name
+*Last* | String | Last Name
+*Sex* | String  | Sex
+*Age* | Float | Age
+*Occupation* | String | Occupation
+*Country of Birth * | String | Country of Birth
+*Education* | Float | Medical CPI in U.S. city average, seasonally adjusted
+*Salary*| Float | Transportation CPI in U.S. city average, seasonally adjusted
+*Salary*| Float | Transportation CPI in U.S. city average, seasonally adjusted
+*Salary*| Float | Transportation CPI in U.S. city average, seasonally adjusted
+*Salary*| Float | Transportation CPI in U.S. city average, seasonally adjusted
+*Salary*| Float | Transportation CPI in U.S. city average, seasonally adjusted
+*Salary*| Float | Transportation CPI in U.S. city average, seasonally adjusted
+*Salary*| Float | Transportation CPI in U.S. city average, seasonally adjusted
+*Salary*| Float | Transportation CPI in U.S. city average, seasonally adjusted
+*Salary*| Float | Transportation CPI in U.S. city average, seasonally adjusted
+*Salary*| Float | Transportation CPI in U.S. city average, seasonally adjusted
+*Salary*| Float | Transportation CPI in U.S. city average, seasonally adjusted
+*Salary*| Float | Transportation CPI in U.S. city average, seasonally adjusted
 
 
 
