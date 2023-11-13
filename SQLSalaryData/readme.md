@@ -58,10 +58,9 @@ Job Satisfaction by State: Calculate and analyze average job satisfaction scores
 
 ## Project Planning / Process 
 
-Acquire
-Prepare
-Explore
-
+Acquire: Acquire the data by using Faker Module and generating the data in Python within a Pandas Dataframe.  <br/> 
+Prepare:  Prepare the data by cleaning, filtering n/a values, and sorting the data. 
+Explore:  I plan to use Seaborn and SQLite Python module to explore and visualize the information.  I am using SQL Queries via SQLite in order to answer my initial queries. 
 
 ## Exploring the Data 
 
