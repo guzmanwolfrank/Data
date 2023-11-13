@@ -20,8 +20,6 @@ visualization purposes.  Generating Fake data is also useful in algorithmic rese
 
 ## Initial Queries for SQLite 
 
-Labor Data Analysis
-
 High Earners: Identify and analyze individuals earning above $200,000.
 
 Top Earner: Determine the individual with the highest salary and their occupation.
