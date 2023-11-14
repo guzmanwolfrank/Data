@@ -89,6 +89,23 @@ Graduate school graduates and Doctorate holders were the most frequent high earn
 Another finding was that Oklahoma had the highest satisfaction scores in the survey.  
 
 ## Conclusion 
+An analysis of a fictional survey dataset generated using Python and SQL revealed the following key findings:
+
+The average salary in the survey is $140,061.62
+The highest earner is Tony Brown, a 47-year-old male speech pathologist from Guam who currently resides and works in Oklahoma onsite
+The highest count of age group belongs to 51 and over
+The scatter plot on Seaborn shows that the higher strata salaries pertain to higher education levels, with graduate school graduates and doctorate holders being the most frequent high earners
+Oklahoma had the highest satisfaction scores in the survey
+These findings suggest that there is a strong correlation between education level, salary, and job satisfaction. Additionally, the data suggests that Oklahoma is a desirable place to live and work.
+
+Recommendations
+
+Based on these findings, the following recommendations can be made:
+
+Individuals who are interested in maximizing their earning potential should consider pursuing higher education.
+Employers should invest in training and development programs for their employees.
+State and local governments should create policies that attract and retain high-skilled workers.
+
 
 ## Tech Stack / Requirements 
 
