@@ -9,6 +9,13 @@ We created a backtest in our Project. This backtest created a dataframe, which w
 
 ## View code and the project in our [jupyter notebook](https://github.com/guzmanwolfrank/SQL/blob/main/AlgoSQL/SQLproject.ipynb).
 
+## The Big Why! 
+
+The big why of why I made this project?  Learning algorithms and SQL Data Analysis can prove to be a difficult challenge.  There are many standards, formats, and ideas as to what constitutes a professional algorithm to be deployed on institutional trading systems.  The most popular and frequent systems, modules and backtesters used, are often extremely frustrating and will prove to be a tremendous time drain.  The time drain begins when trying to coordinate various free and open source modules, applications and often deprecated backtesting systems.  They will have very little version compatability, documentation is often deprecated and you will have to often downgrade your version of Python to get everything working.  This is IF the open source module you are using isn't depecrated or being altered.  Most of the backtesting software available is only compatible with Python 3.5.  We are currently on Python 3.11!
+
+By creating this project, I found a new way to easily analyze return data without relying on popular modules and was able to easily visualize the results using simplistic methods and efficient modules like Seaborn. 
+I built the project so that nothing used is conflicting and devolving into a time drain of compatability and depecrated software.  
+
 ## Objective
 
 My objective was to run SQL Queries on data in order to analyze the results of the algorithmic backtest. 
