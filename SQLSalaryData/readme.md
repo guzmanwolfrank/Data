@@ -98,7 +98,7 @@ The scatter plot on Seaborn shows that the higher strata salaries pertain to hig
 Oklahoma had the highest satisfaction scores in the survey
 These findings suggest that there is a strong correlation between education level, salary, and job satisfaction. Additionally, the data suggests that Oklahoma is a desirable place to live and work.
 
-Recommendations
+### Recommendations
 
 Based on these findings, the following recommendations can be made:
 
