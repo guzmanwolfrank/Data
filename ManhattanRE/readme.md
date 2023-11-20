@@ -1,27 +1,47 @@
-# Manhattan Rolling Real Estate Sales 
 
-
-readme.md file goes here
-PTS Sales Data as of 11/8/2023
-
-manhrollsalesnov22oct23
-
-Manhattan Rolling Sales Data from November 2022 to October 2023
+# Manhattan Rolling Sales Data from November 2022 to October 2023
 
 https://www.nyc.gov/site/finance/taxes/property-rolling-sales-data.page
 
 https://www.nyc.gov/assets/finance/jump/hlpbldgcode.html
 
-
-Rolling Sales Data
-The Department of Finance’s Rolling Sales files lists properties that sold in the last twelve-month period in New York City for tax class 1, 2, and 4. These files include:
-
-the neighborhood;
-building type;
-square footage;
-other data.
+ Sales Data as of 11/8/2023
 
 
+
+# Analyzing Manhattan Rolling Sales Data from November 2022 to October 2023 using Python and Seaborn
+
+## Project Overview:
+
+This project aims to analyze and visualize Manhattan Rolling Sales Data from November 2022 to October 2023 using Python and Seaborn. The data will be extracted from the NYC Open Data website and preprocessed to ensure its cleanliness and consistency. Subsequently, exploratory data analysis techniques will be employed to uncover patterns and trends within the data. Finally, insightful visualizations will be created using Seaborn to effectively communicate the findings to a wider audience.
+
+## Data Description:
+
+The Manhattan Rolling Sales Data comprises information on properties that have sold in the last twelve-month period in Manhattan, categorized under tax classes 1, 2, and 4. Key attributes within the dataset include the property's neighborhood, building type, square footage, and other relevant details.
+
+## Tools and Technologies:
+
+Python: A versatile programming language widely used for data analysis and manipulation.
+
+Seaborn: A Python library for data visualization that provides a high-level interface for creating aesthetically pleasing and informative plots.
+
+## Project Objectives:
+
+Gain insights into the distribution of property sales across different neighborhoods in Manhattan.
+
+Identify trends in property sales based on building type and square footage.
+
+Analyze the relationship between property sales and other relevant factors, such as neighborhood characteristics and economic indicators.
+
+Create compelling visualizations to effectively communicate the findings to a non-technical audience.
+
+## Project Deliverables:
+
+A comprehensive data analysis report documenting the findings and insights extracted from the data.
+
+A collection of interactive visualizations using Seaborn to illustrate the key trends and patterns observed within the data.
+
+A presentation summarizing the project's methodology, findings, and implications for understanding property sales in Manhattan.
 
 
 ## Project Description
