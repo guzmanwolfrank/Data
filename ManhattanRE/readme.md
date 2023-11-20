@@ -9,6 +9,9 @@ Website: [guzmanwolfrank.com](#) <br/>
 
 This project aims to analyze and visualize Manhattan Rolling Sales Data from November 2022 to October 2023 using Python and Seaborn. The data will be extracted from the NYC Open Data website and preprocessed to ensure its cleanliness and consistency. Subsequently, exploratory data analysis techniques will be employed to uncover patterns and trends within the data. Finally, insightful visualizations will be created using Seaborn to effectively communicate the findings to a wider audience.
 
+
+### To view the project's Jupyter notebook, click [here](#).
+
 ## Data Description:
 
 The Manhattan Rolling Sales Data comprises information on properties that have sold in the last twelve-month period in Manhattan, categorized under tax classes 1, 2, and 4. Key attributes within the dataset include the property's neighborhood, building type, square footage, and other relevant details.   Sales Data as of 11/8/2023
@@ -45,14 +48,6 @@ A collection of interactive visualizations using Seaborn to illustrate the key t
 
 A presentation summarizing the project's methodology, findings, and implications for understanding property sales in Manhattan.
 
-
-## Project Description
-
-Here we analyze Zillow Housing Data to check for highest cost locations, market trends and other patterns. 
-
-This SQL project takes us through Python programming, SQL data cleansing, data analysis and data presentation via dashboard.  
-
-### To view the project's Jupyter notebook, click [here](#).
 
 ## Goals 
 
