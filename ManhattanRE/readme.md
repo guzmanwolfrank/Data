@@ -22,7 +22,6 @@ square footage;
 other data.
 
 
-![download](https://github.com/guzmanwolfrank/SQL/assets/29739578/d03867fe-9822-40ed-b670-83ba3501df99)
 
 
 ## Project Description
@@ -31,7 +30,7 @@ Here we analyze Zillow Housing Data to check for highest cost locations, market 
 
 This SQL project takes us through Python programming, SQL data cleansing, data analysis and data presentation via dashboard.  
 
-### To view the project's Jupyter notebook, click [here](https://github.com/guzmanwolfrank/SQL/blob/main/SQL%20Zillow/ZillowProject.ipynb).
+### To view the project's Jupyter notebook, click [here](#).
 
 ## Goals 
 
@@ -76,13 +75,11 @@ Some of the  initial questions we hope to explore and answer are:
 
 Here is a list of SQL Queries for analysis:
 
-![queries](https://github.com/guzmanwolfrank/Data-SQL/assets/29739578/4557ae9a-5547-4727-945d-18aa375493c0)
 
 ## Seaborn Visualizations 
 
 We can use the output of the SQL Queries to construct visualizations such as histograms of the data we have cleaned and queried.
 
-![seaborn](https://github.com/guzmanwolfrank/Data-SQL/assets/29739578/04159439-afd7-41a2-9283-4356771bc8ed)
 
 
 ## Findings 
@@ -96,7 +93,6 @@ Surprisingly, Montana emerged as the state with the highest overall change in to
 
 ![chart5](https://github.com/guzmanwolfrank/Data-SQL/assets/29739578/36d6666c-ba4f-4c10-ac51-c548a6b55afe)
 
-![chart4](https://github.com/guzmanwolfrank/Data-SQL/assets/29739578/9e04d0cd-f8c4-497e-9db0-ba36117672e5)
 
 
 
