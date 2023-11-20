@@ -1,5 +1,9 @@
 # Analyzing Manhattan Rolling Sales Data from November 2022 to October 2023 using Python and Seaborn
-Data Project by Wolfrank Guzman 
+Data Project by Wolfrank Guzman <br/>
+GitHub: [guzmanwolfrank](#) <br/>
+Website: [guzmanwolfrank.com}(#) <br/>
+
+
 #
 ## Project Overview:
 
