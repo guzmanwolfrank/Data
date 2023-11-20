@@ -1,14 +1,3 @@
-
-# Manhattan Rolling Sales Data from November 2022 to October 2023
-
-https://www.nyc.gov/site/finance/taxes/property-rolling-sales-data.page
-
-https://www.nyc.gov/assets/finance/jump/hlpbldgcode.html
-
- Sales Data as of 11/8/2023
-
-
-
 # Analyzing Manhattan Rolling Sales Data from November 2022 to October 2023 using Python and Seaborn
 
 ## Project Overview:
@@ -17,13 +6,21 @@ This project aims to analyze and visualize Manhattan Rolling Sales Data from Nov
 
 ## Data Description:
 
-The Manhattan Rolling Sales Data comprises information on properties that have sold in the last twelve-month period in Manhattan, categorized under tax classes 1, 2, and 4. Key attributes within the dataset include the property's neighborhood, building type, square footage, and other relevant details.
+The Manhattan Rolling Sales Data comprises information on properties that have sold in the last twelve-month period in Manhattan, categorized under tax classes 1, 2, and 4. Key attributes within the dataset include the property's neighborhood, building type, square footage, and other relevant details.   Sales Data as of 11/8/2023
+
 
 ## Tools and Technologies:
 
 Python: A versatile programming language widely used for data analysis and manipulation.
 
 Seaborn: A Python library for data visualization that provides a high-level interface for creating aesthetically pleasing and informative plots.
+
+## Links 
+
+https://www.nyc.gov/site/finance/taxes/property-rolling-sales-data.page
+
+https://www.nyc.gov/assets/finance/jump/hlpbldgcode.html
+
 
 ## Project Objectives:
 
