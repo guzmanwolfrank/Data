@@ -1,5 +1,7 @@
 # Analyzing Manhattan Rolling Sales Data from November 2022 to October 2023 using Python and Seaborn
-
+#
+Data Project by Wolfrank Guzman 
+#
 ## Project Overview:
 
 This project aims to analyze and visualize Manhattan Rolling Sales Data from November 2022 to October 2023 using Python and Seaborn. The data will be extracted from the NYC Open Data website and preprocessed to ensure its cleanliness and consistency. Subsequently, exploratory data analysis techniques will be employed to uncover patterns and trends within the data. Finally, insightful visualizations will be created using Seaborn to effectively communicate the findings to a wider audience.
