@@ -7,6 +7,20 @@ This folder contains a collection of SQL and Data projects.
 ![sql-illustration](https://github.com/guzmanwolfrank/SQL/assets/29739578/70b5622c-70fe-4fd5-931e-4c6f0c723870)
 
 
+#### [Netflix](https://github.com/guzmanwolfrank/SQL/tree/main/Netflix): I created an algorithm backtest in python which outputs a list of trades and stats based on the strategy's results.
+
+This Data Analysis project takes us through programming, data cleansing, data analysis and data presentation via dashboard.  
+
+
+
+    Software: SQL,Google Looker, Python 3.11, VS Code, Jupyter Notebook
+    Language: Python
+    Modules: Yfinance, Pandas, Plotly, Matplotlib, Tkinter
+![SQLimage](https://github.com/guzmanwolfrank/SQL/assets/29739578/4c3c7f68-1202-4f2f-81f9-538b4ca8a21e)
+
+#
+
+
 
 #### [AlgoSQL Project](https://github.com/guzmanwolfrank/SQL/tree/main/AlgoSQL): I created an algorithm backtest in python which outputs a list of trades and stats based on the strategy's results.
 
@@ -48,3 +62,18 @@ We will generate information for a fictional survey which details salaries, surv
 
 
 ![avgsal](https://github.com/guzmanwolfrank/SQL/assets/29739578/ab03cdfb-4e17-4255-9f6e-6cf590fbe930)
+
+
+#### [ManhattanRE](https://github.com/guzmanwolfrank/SQL/tree/main/ManhattanRE): I created an algorithm backtest in python which outputs a list of trades and stats based on the strategy's results.
+
+This Data Analysis project takes us through programming, data cleansing, data analysis and data presentation via dashboard.  
+
+
+
+    Software: SQL,Google Looker, Python 3.11, VS Code, Jupyter Notebook
+    Language: Python
+    Modules: Yfinance, Pandas, Plotly, Matplotlib, Tkinter
+![SQLimage](https://github.com/guzmanwolfrank/SQL/assets/29739578/4c3c7f68-1202-4f2f-81f9-538b4ca8a21e)
+
+#
+
