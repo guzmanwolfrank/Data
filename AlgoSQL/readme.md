@@ -56,13 +56,15 @@ Some of the SQL (sqlite) Queries involved in analyzing the results in this proje
 
 ![carbon (10)](https://github.com/guzmanwolfrank/Data-SQL/assets/29739578/7e21922f-c5e2-4568-bbf7-fb31cf25a5cd)
 
-## Conclusion 
+##  Findings & Conclusion 
 
 In conclusion, after querying results, we see that the algorithmic backtest strategy was more profitable than the benchmark of buy and hold on TQQQ stock.
 
+Findings: <br>
+
 The standard deviation made it predictable and risk averse, while the signals generated trades that were highly profitable and had limited drawdown and losing trades and days.
 
-The strategy return ended up being $32,000 higher than the benchmark of buy and hold on TQQQ.
+The strategy yielded $32,000 more in profit than the benchmark of buy and hold on TQQQ.
 
 A simple buy strategy on a moving average cross was able to beat the volatility and drawdown that TQQQ sustained on a buy and hold approach.
 
