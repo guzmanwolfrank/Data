@@ -54,8 +54,7 @@ A presentation summarizing the project's methodology, findings, and implications
 
 ## Goals 
 
-Our goal is to use SQL queries to help analyze data from Zillow's Top Tier Housing Data. Our goals are also to see what changes have occured on Top Tier Home Values in all 50 states and Washington DC.
-
+Our goal is to use SQL queries to help analyze data from different neighborhoods across Manhattan. 
 
 ## Initial Questions 
 
@@ -69,10 +68,7 @@ Some of the  initial questions we hope to explore and answer are:
 
         What are the top 5 states in terms of Highest Average Top Tier Home Values? 
 
-      
-
-
-
+    
 
 ## Data Dictionary
 **Variable** |    **Value**    | **Meaning**
@@ -100,6 +96,7 @@ Here is a list of SQL Queries for analysis:
 
 We can use the output of the SQL Queries to construct visualizations such as histograms of the data we have cleaned and queried.
 
+![chart5](https://github.com/guzmanwolfrank/Data-SQL/assets/29739578/36d6666c-ba4f-4c10-ac51-c548a6b55afe)
 
 
 ## Findings 
@@ -110,10 +107,6 @@ Home values have witnessed a substantial increase over time, indicating the robu
 We observed a concentration of top-tier homes in a select few states, with mid-range priced homes becoming scarcer.<br/>
 
 Surprisingly, Montana emerged as the state with the highest overall change in top-tier home values since 2019.<br/>
-
-![chart5](https://github.com/guzmanwolfrank/Data-SQL/assets/29739578/36d6666c-ba4f-4c10-ac51-c548a6b55afe)
-
-
 
 
 ## Conclusion 
