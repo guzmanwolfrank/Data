@@ -54,7 +54,7 @@ A presentation summarizing the project's methodology, findings, and implications
 
 ## Goals 
 
-Our goal is to use SQL queries to help analyze data from different neighborhoods across Manhattan. 
+Our goal is to use SQL queries to help analyze sales data from different neighborhoods across Manhattan. 
 
 ## Initial Questions 
 
