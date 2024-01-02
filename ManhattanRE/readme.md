@@ -60,9 +60,7 @@ Our goal is to use SQL queries to help analyze sales data from different neighbo
 
 Some of the  initial questions we hope to explore and answer are:
 
-        What are the average home values by state in September 2019?  
-
-        What are the average home values by state in Septemberr 2023? 
+        What were the number of properties sold per neighborhood? 
 
         What states have the highest change in ZHVI? 
 
