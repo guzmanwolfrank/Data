@@ -91,26 +91,29 @@ The  initial questions we hope to explore and answer are:
 **Variable** |    **Value**    | **Meaning**
 ---|---|---
 *RECORD INDEX* | Float | The index of the record 
-*NEIGHBORHOOD* | String | A rank number is assigned to States.  The number 1 is the hihgest ranked state according to population and size. 
-*BLDGCAT* | Float | Name of state 
-*BLDGDESCRIPTION* | String | A measure of the typical home value and market changes across a given region and housing type. It reflects the typical value for homes in the 35th to 65th percentile range. 
-*TAXCLP* | Float | The year of the data source
-*BLOCK* | Float | A rank number is assigned to States.  The number 1 is the hihgest ranked state according to population and size. 
-*LOT* | Float | Name of state 
-*BLDGCP* | Float | A measure of the typical home value and market changes across a given region and housing type. It reflects the typical value for homes in the 35th to 65th percentile range. 
-*ADDRESS* | String | The year of the data source
-*ZIP_CODE* | Float | A rank number is assigned to States.  The number 1 is the hihgest ranked state according to population and size. 
-*RESIDENTIAL_ UNITS* | Float | Name of state 
-*COMMERCIAL_UNITS* | Float | A measure of the typical home value and market changes across a given region and housing type. It reflects the typical value for homes in the 35th to 65th percentile range. 
-*UNITS* | Float | The year of the data source
-*LANDSFT* | Float | A rank number is assigned to States.  The number 1 is the hihgest ranked state according to population and size. 
-*GROSSSF* | Float | Name of state 
-*BUILT* | Float | A measure of the typical home value and market changes across a given region and housing type. It reflects the typical value for homes in the 35th to 65th percentile range. 
+*NEIGHBORHOOD* | String | Department of Finance assessors determine the neighborhood name in the course of valuing properties. The common name of the neighborhood is generally the same as the name Finance designates. However, there may be slight differences in neighborhood boundary lines and some sub-neighborhoods may not be included. 
+*BLDGCAT* | Float | This is a field that we are including so that users of the Rolling Sales Files can easily identify similar properties by broad usage (e.g. One Family Homes) without looking up individual Building Classes. Files are sorted by Borough, Neighborhood, Building Class Category, Block and Lot.
+*BLDGDESCRIPTION* | String | o 65th percentile range. 
+*TAXCLP* | Float | Every property in the city is assigned to one of four tax classes (Classes 1, 2, 3, and 4), based on the use of the property.
+Class 1: Includes most residential property of up to three units (such as one-, two-, and three-family homes and small stores or offices with one or two attached apartments), vacant land that is zoned for residential use, and most condominiums that are not more than three stories.
+Class 2: Includes all other property that is primarily residential, such as cooperatives and condominiums.
+Class 3: Includes property with equipment owned by a gas, telephone or electric company.
+Class 4: Includes all other properties not included in class 1,2, and 3, such as offices, factories, warehouses, garage buildings, etc.
+*BLOCK* | Float | A Tax Block is a sub-division of the borough on which real properties are located. The Department of Finance uses a Borough-Block-Lot classification to label all real property in the City. “Whereas” addresses describe the street location of a property, the block and lot distinguishes one unit of real property from another, such as the different condominiums in a single building. Also, block and lots are not subject to name changes based on which side of the parcel the building puts its entrance on. 
+*LOT* | Float | A Tax Lot is a subdivision of a Tax Block and represents the property unique location.
+*BLDGCP* | Float | The Building Classification is used to describe a property’s constructive use. The first position of the Building Class is a letter that is used to describe a general class of properties (for example “A” signifies one-family homes, “O” signifies office buildings. “R” signifies condominiums). The second position, a number, adds more specific information about the property’s use or construction style (using our previous examples “A0” is a Cape Cod style one family home, “O4” is a tower type office building and “R5” is a commercial condominium unit). The term Building Class used by the Department of Finance is interchangeable with the term Building Code used by the Department of Buildings 
+*ADDRESS* | String | The street address of the property as listed on the Sales File. Coop sales include the apartment number in the address field.
+*ZIP_CODE* | Float |The property’s postal code.
+*RESIDENTIAL_ UNITS* | Float | The number of residential units at the listed property.
+*COMMERCIAL_UNITS* | Float | The number of commercial units at the listed property.
+*UNITS* | Float | The total number of units at the listed property.
+*LANDSFT* | Float | The land area of the property listed in square feet.
+*GROSSSF* | Float | The total area of all the floors of a building as measured from the exterior surfaces of the outside walls of the building, including the land area and space within any building or structure on the property.
+*BUILT* | Float |Year the structure on the property was built.
 *TAXCLSALE* | Float | The year of the data source
-*BLDGCTOS* | Float | A rank number is assigned to States.  The number 1 is the hihgest ranked state according to population and size. 
-*SALE_PRICE* | String | Name of state 
-*SALE_DATE* | Datetime Object | A measure of the typical home value and market changes across a given region and housing type. It reflects the typical value for homes in the 35th to 65th percentile range. 
-
+*BLDGCTOS* | Float | The Building Classification is used to describe a property’s constructive use. The first position of the Building Class is a letter that is used to describe a general class of properties (for example “A” signifies one-family homes, “O” signifies office buildings. “R” signifies condominiums). The second position, a number, adds more specific information about the property’s use or construction style (using our previous examples “A0” is a Cape Cod style one family home, “O4” is a tower type office building and “R5” is a commercial condominium unit). The term Building Class as used by the Department of Finance is interchangeable with the term Building Code as used by the Department of Buildings.
+*SALE_PRICE* | String | Price paid for the property.
+*SALE_DATE* | Datetime Object | Date the property sold.
 
 ## Exploring the Data 
 
