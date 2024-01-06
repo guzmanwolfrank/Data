@@ -5,6 +5,9 @@ GitHub: [guzmanwolfrank](#) <br/>
 Website: [guzmanwolfrank.com](#) <br/>
 
 #
+
+![westidecrop](https://github.com/guzmanwolfrank/Data-SQL/assets/29739578/257bdaee-d986-4ed8-8d1a-a9dca04a81e3)
+
 ## Project Overview:
 
 This project aims to analyze and visualize Manhattan Rolling Sales Data from November 2022 to October 2023 using Python and Seaborn. The data will be extracted from the NYC Open Data website and preprocessed to ensure its cleanliness and consistency. Subsequently, exploratory data analysis techniques will be employed to uncover patterns and trends within the data. Finally, insightful visualizations will be created using Seaborn to effectively communicate the findings to a wider audience.
@@ -29,6 +32,8 @@ https://www.nyc.gov/site/finance/taxes/property-rolling-sales-data.page
 
 https://www.nyc.gov/assets/finance/jump/hlpbldgcode.html
 
+https://www.nyc.gov/site/finance/property/glossary-property-sales.page
+
 
 ## Project Objectives:
 
@@ -51,89 +56,187 @@ A presentation summarizing the project's methodology, findings, and implications
 
 ## Goals 
 
-Our goal is to use SQL queries to help analyze data from Zillow's Top Tier Housing Data. Our goals are also to see what changes have occured on Top Tier Home Values in all 50 states and Washington DC.
-
+Our goal is to use SQL queries to help analyze sales data from different neighborhoods across Manhattan. 
 
 ## Initial Questions 
 
-Some of the  initial questions we hope to explore and answer are:
+The  initial questions we hope to explore and answer are:
 
-        What are the average home values by state in September 2019?  
+        # Query 1: Number of properties sold per neighborhood? 
 
-        What are the average home values by state in Septemberr 2023? 
+     
+        
+        # Query 2: What is the distribution of Sale Prices by Building Category? 
+        
+  
 
-        What states have the highest change in ZHVI? 
+        # Query 3:  What is the Sales distribution over Time? 
 
-        What are the top 5 states in terms of Highest Average Top Tier Home Values? 
+
+
+        # Query 4: What is the Sales Price distribution by Neighborhood? 
 
       
 
+        # Query 5: What is the number of properties sold by tax class?
+    
+         
 
-
+        # Query 6: What is the Average GROSS SF by Neighborhood?
+        
+      
+    
 
 ## Data Dictionary
 **Variable** |    **Value**    | **Meaning**
 ---|---|---
-*Date* | Datetime object | The year of the data source
-*SizeRank* | Float | A rank number is assigned to States.  The number 1 is the hihgest ranked state according to population and size. 
-*State* | String | Name of state 
-*ZHVI Value* | Float | A measure of the typical home value and market changes across a given region and housing type. It reflects the typical value for homes in the 35th to 65th percentile range. 
-
+*RECORD INDEX* | Float | The index of the record 
+*NEIGHBORHOOD* | String | Department of Finance assessors determine the neighborhood name in the course of valuing properties. The common name of the neighborhood is generally the same as the name Finance designates. However, there may be slight differences in neighborhood boundary lines and some sub-neighborhoods may not be included. 
+*BLDGCAT* | Float | This is a field that we are including so that users of the Rolling Sales Files can easily identify similar properties by broad usage (e.g. One Family Homes) without looking up individual Building Classes. Files are sorted by Borough, Neighborhood, Building Class Category, Block and Lot.
+*BLDGDESCRIPTION* | String | o 65th percentile range. 
+*TAXCLP* | Float | Every property in the city is assigned to one of four tax classes (Classes 1, 2, 3, and 4), based on the use of the property.
+*BLOCK* | Float | A Tax Block is a sub-division of the borough on which real properties are located. The Department of Finance uses a Borough-Block-Lot classification to label all real property in the City. “Whereas” addresses describe the street location of a property, the block and lot distinguishes one unit of real property from another, such as the different condominiums in a single building. Also, block and lots are not subject to name changes based on which side of the parcel the building puts its entrance on. 
+*LOT* | Float | A Tax Lot is a subdivision of a Tax Block and represents the property unique location.
+*BLDGCP* | Float | The Building Classification is used to describe a property’s constructive use. The first position of the Building Class is a letter that is used to describe a general class of properties (for example “A” signifies one-family homes, “O” signifies office buildings. “R” signifies condominiums). The second position, a number, adds more specific information about the property’s use or construction style (using our previous examples “A0” is a Cape Cod style one family home, “O4” is a tower type office building and “R5” is a commercial condominium unit). The term Building Class used by the Department of Finance is interchangeable with the term Building Code used by the Department of Buildings 
+*ADDRESS* | String | The street address of the property as listed on the Sales File. Coop sales include the apartment number in the address field.
+*ZIP_CODE* | Float |The property’s postal code.
+*RESIDENTIAL_ UNITS* | Float | The number of residential units at the listed property.
+*COMMERCIAL_UNITS* | Float | The number of commercial units at the listed property.
+*UNITS* | Float | The total number of units at the listed property.
+*LANDSFT* | Float | The land area of the property listed in square feet.
+*GROSSSF* | Float | The total area of all the floors of a building as measured from the exterior surfaces of the outside walls of the building, including the land area and space within any building or structure on the property.
+*BUILT* | Float |Year the structure on the property was built.
+*TAXCLSALE* | Float | The year of the data source
+*BLDGCTOS* | Float | The Building Classification is used to describe a property’s constructive use. The first position of the Building Class is a letter that is used to describe a general class of properties (for example “A” signifies one-family homes, “O” signifies office buildings. “R” signifies condominiums). The second position, a number, adds more specific information about the property’s use or construction style (using our previous examples “A0” is a Cape Cod style one family home, “O4” is a tower type office building and “R5” is a commercial condominium unit). The term Building Class as used by the Department of Finance is interchangeable with the term Building Code as used by the Department of Buildings.
+*SALE_PRICE* | String | Price paid for the property.
+*SALE_DATE* | Datetime Object | Date the property sold.
 
 ## Exploring the Data 
 
         # SQL Queries 
 
-        We will use SQL Queries to explore the data within the ZHVI file and dataframe we build off of it. 
+        We will use SQL Queries to explore the data within the CSV file and dataframe we build off of it. 
 
         In order to do so, we must the load the CSV data into a SQLite Database and connect to the database.  
+
+                Read the CSV File
+                csv_file = r'C:\Users\Wolfrank\Desktop\Data-SQL\ManhattanRE\Data\ManhattanData.csv'
+                df = pd.read_csv(csv_file).round(2)
+
 
 <br/>
 
 Here is a list of SQL Queries for analysis:
 
+        # Query 1: Number of properties sold per neighborhood? 
 
-## Seaborn Visualizations 
+        query1 = """
+        SELECT NEIGHBORHOOD, COUNT(*) AS num_sales
+        FROM sales_data
+        GROUP BY NEIGHBORHOOD
+        ORDER BY num_sales DESC
+        """
+        
+        # Query 2: What is the distribution of Sale Prices by Building Category? 
+        
+        query2 = """
+        SELECT BLDGCAT, SALE_PRICE
+        FROM sales_data
+        WHERE SALE_PRICE IS NOT NULL;      
+        """
 
-We can use the output of the SQL Queries to construct visualizations such as histograms of the data we have cleaned and queried.
+        # Query 3:  What is the Sales distribution over Time? 
 
+        query3 = """
+        SELECT SALE_DATE, SALE_PRICE
+        FROM sales_data
+        WHERE SALE_PRICE IS NOT NULL;
+        """
+
+        # Query 4: What is the Sales Price distribution by Neighborhood? 
+
+        query4 = """
+        SELECT NEIGHBORHOOD, SALE_PRICE
+        FROM sales_data
+        WHERE SALE_PRICE IS NOT NULL;
+        """
+
+        # Query 5: What is the number of properties sold by tax class?
+        query5 = """
+        SELECT TAXCLP, COUNT(*) AS num_sales
+        FROM sales_data
+        GROUP BY TAXCLP;
+        """
+       
+
+        # Query 6: What is the Average GROSS SF by Neighborhood?
+        
+        query6 = """
+        SELECT NEIGHBORHOOD, AVG(GROSSSF) AS avg_gross_sf
+        FROM sales_data
+        GROUP BY NEIGHBORHOOD;
+        """
+
+    
+
+
+
+## Plotly Visualizations 
+
+We can use the output of the SQL Queries to construct visualizations such as scatter plots of the data we have cleaned and queried.
+
+
+
+
+![chart1](https://github.com/guzmanwolfrank/Data-SQL/blob/manhattanre/ManhattanRE/Img/q1.png)
+</br>
+
+![chart2](https://github.com/guzmanwolfrank/Data-SQL/blob/manhattanre/ManhattanRE/Img/q2.png)
+</br>
+
+![chart3](https://github.com/guzmanwolfrank/Data-SQL/blob/manhattanre/ManhattanRE/Img/q3.png)
+</br>
+
+![chart4](https://github.com/guzmanwolfrank/Data-SQL/blob/manhattanre/ManhattanRE/Img/q4.png)
+</br>
+
+![chart5](https://github.com/guzmanwolfrank/Data-SQL/blob/manhattanre/ManhattanRE/Img/q5.png)
+</br>
+
+![chart6](https://github.com/guzmanwolfrank/Data-SQL/blob/manhattanre/ManhattanRE/Img/q6.png)
+</br>
 
 
 ## Findings 
 Our analysis revealed compelling trends and findings: <br/>
 
-Home values have witnessed a substantial increase over time, indicating the robust growth of the real estate market.<br/>
-
-We observed a concentration of top-tier homes in a select few states, with mid-range priced homes becoming scarcer.<br/>
-
-Surprisingly, Montana emerged as the state with the highest overall change in top-tier home values since 2019.<br/>
-
-![chart5](https://github.com/guzmanwolfrank/Data-SQL/assets/29739578/36d6666c-ba4f-4c10-ac51-c548a6b55afe)
-
-
-
+The Upper East Side, Upper West Side  and Midtown East had the highest number of properties sold per neighborhood. 
+<br/> 
+The dropoff in sales from Jan 2023 is evident in the scatter plot we made.  Sales prices were scant and mostly in the mid six figures. 
+<br/> 
+Another interesting finding was that Tribeca, although it lead in smallest square footage per unit, in relation to size, was one of the most expensive properties per square foot. 
+<br/>
+The most frequent tax class sold was Class 2.  Class 2 Includes all other property that is primarily residential, such as cooperatives and condominiums.
+<br/>
 
 ## Conclusion 
-In this project, we embarked on a journey to explore Zillow's Top Tier Home Value data with the goal of understanding market trends, changes in home values, and emerging patterns in the real estate market. Through a combination of Python programming, SQL queries, data cleansing, and visualization, we delved into the dataset to uncover valuable insights.
+Our analysis reveals that square footage has a surprisingly minor influence (X% explained variance) on sales price variations across Manhattan neighborhoods. 
+This suggests that factors like location, amenities, and building type might play a more significant role. Notably, the Upper East and Upper West Sides exhibit substantial sales volume within the "residential" category, potentially driven by a mix of affordable options and luxury apartments.
 
-Average Home Values: We examined the average home values by state in both September 2019 and September 2023, allowing us to observe the evolving landscape of top-tier home values over time.
-
-Change in ZHVI: We identified the states with the highest changes in Zillow Home Value Index (ZHVI) to gain insights into which regions experienced the most significant shifts in property values.
-
-Top 5 States with Highest Average Top Tier Home Values: We determined the top five states with the highest average top-tier home values, shedding light on the most sought-after real estate markets.
+Even more surprising is the second-highest frequency (5.28%) of sales for Class 4 properties (offices, factories, etc.), potentially hinting at unique investment opportunities or zoning changes influencing market trends. Further research could delve deeper into these unexpected findings and their potential impact on Manhattan's diverse real estate landscape.
 
 
-In conclusion, we've unlocked valuable information about top-tier home values, changes in ZHVI, and the evolving real estate market, paving the way for more informed decision-making in the world of real estate.
+ 
 
 ## Tech Stack 
-seaborn==0.12.2 <br/>
+plotly==5.18.0 <br/>
 pandas==2.0.3 <br/>
 matplotlib==3.7.2 <br/>
-numpy==1.25.2  <br/>
 
-    Software: SQL,Google Looker, Streamlit, GoogleSheets, Python 3.11, VS Code, Jupyter Notebook
+
+    Software: SQL, GoogleSheets, Python 3.11, VS Code, Jupyter Notebook, Tableau 
     Languages: SQL, Python
-    Modules: Seaborn, Pandas, SQLite3, Matplotlib
+    Modules: Plotly, Pandas, SQLite3, Matplotlib
 
 
 ## Badges 
