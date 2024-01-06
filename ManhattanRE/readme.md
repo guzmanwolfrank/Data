@@ -56,9 +56,55 @@ A presentation summarizing the project's methodology, findings, and implications
 
 Our goal is to use SQL queries to help analyze sales data from different neighborhoods across Manhattan. 
 
-## Initial Questions [SQL Queries]
+## Initial Questions 
 
 The  initial questions we hope to explore and answer are:
+
+        # Query 1: Number of properties sold per neighborhood? 
+
+     
+        
+        # Query 2: What is the distribution of Sale Prices by Building Category? 
+        
+  
+
+        # Query 3:  What is the Sales distribution over Time? 
+
+
+
+        # Query 4: What is the Sales Price distribution by Neighborhood? 
+
+      
+
+        # Query 5: What is the number of properties sold by tax class?
+    
+         
+
+        # Query 6: What is the Average GROSS SF by Neighborhood?
+        
+      
+    
+
+## Data Dictionary
+**Variable** |    **Value**    | **Meaning**
+---|---|---
+*Date* | Datetime object | The year of the data source
+*SizeRank* | Float | A rank number is assigned to States.  The number 1 is the hihgest ranked state according to population and size. 
+*State* | String | Name of state 
+*ZHVI Value* | Float | A measure of the typical home value and market changes across a given region and housing type. It reflects the typical value for homes in the 35th to 65th percentile range. 
+
+
+## Exploring the Data 
+
+        # SQL Queries 
+
+        We will use SQL Queries to explore the data within the ZHVI file and dataframe we build off of it. 
+
+        In order to do so, we must the load the CSV data into a SQLite Database and connect to the database.  
+
+<br/>
+
+Here is a list of SQL Queries for analysis:
 
         # Query 1: Number of properties sold per neighborhood? 
 
@@ -111,26 +157,6 @@ The  initial questions we hope to explore and answer are:
 
     
 
-## Data Dictionary
-**Variable** |    **Value**    | **Meaning**
----|---|---
-*Date* | Datetime object | The year of the data source
-*SizeRank* | Float | A rank number is assigned to States.  The number 1 is the hihgest ranked state according to population and size. 
-*State* | String | Name of state 
-*ZHVI Value* | Float | A measure of the typical home value and market changes across a given region and housing type. It reflects the typical value for homes in the 35th to 65th percentile range. 
-
-
-## Exploring the Data 
-
-        # SQL Queries 
-
-        We will use SQL Queries to explore the data within the ZHVI file and dataframe we build off of it. 
-
-        In order to do so, we must the load the CSV data into a SQLite Database and connect to the database.  
-
-<br/>
-
-Here is a list of SQL Queries for analysis:
 
 
 ## Seaborn Visualizations 
