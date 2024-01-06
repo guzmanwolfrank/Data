@@ -15,7 +15,9 @@ This folder contains a collection of SQL and Data projects.
     Languages: SQL, Python
     Modules: Plotly, Pandas, SQLite3
 
-![image](https://github.com/guzmanwolfrank/Data-SQL/blob/manhattanre/ManhattanRE/Img/q3.png)
+![image](https://github.com/guzmanwolfrank/Data-SQL/blob/main/ManhattanRE/Img/q3.png)
+![image](https://github.com/guzmanwolfrank/Data-SQL/blob/main/ManhattanRE/Img/q4.png)
+![image](https://github.com/guzmanwolfrank/Data-SQL/blob/main/ManhattanRE/Img/q1.png)
 
 
 #### [SQL Zillow](https://github.com/guzmanwolfrank/SQL/tree/main/SQL%20Zillow): Here we analyze Zillow Housing Data to check for highest cost locations, market trends and other patterns. 
