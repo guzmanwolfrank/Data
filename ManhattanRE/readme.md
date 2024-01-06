@@ -1,4 +1,4 @@
-# Analyzing Manhattan Rolling Sales Data from November 2022 to October 2023 using Python and Seaborn
+# Analyzing Manhattan Rolling Sales Data from November 2022 to October 2023 using Python and Plotly
 Data Project by
 #### Wolfrank Guzman <br/>
 GitHub: [guzmanwolfrank](#) <br/>
