@@ -188,17 +188,22 @@ We can use the output of the SQL Queries to construct visualizations such as sca
 
 
 ![chart1](https://github.com/guzmanwolfrank/Data-SQL/blob/manhattanre/ManhattanRE/Img/q1.png)
+</br>
 
 ![chart2](https://github.com/guzmanwolfrank/Data-SQL/blob/manhattanre/ManhattanRE/Img/q2.png)
+</br>
 
 ![chart3](https://github.com/guzmanwolfrank/Data-SQL/blob/manhattanre/ManhattanRE/Img/q3.png)
+</br>
 
 ![chart4](https://github.com/guzmanwolfrank/Data-SQL/blob/manhattanre/ManhattanRE/Img/q4.png)
+</br>
 
 ![chart5](https://github.com/guzmanwolfrank/Data-SQL/blob/manhattanre/ManhattanRE/Img/q5.png)
+</br>
 
 ![chart6](https://github.com/guzmanwolfrank/Data-SQL/blob/manhattanre/ManhattanRE/Img/q6.png)
-
+</br>
 
 
 ## Findings 
