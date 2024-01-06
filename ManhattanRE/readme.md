@@ -209,23 +209,14 @@ We can use the output of the SQL Queries to construct visualizations such as sca
 ## Findings 
 Our analysis revealed compelling trends and findings: <br/>
 
-Home values have witnessed a substantial increase over time, indicating the robust growth of the real estate market.<br/>
-
-We observed a concentration of top-tier homes in a select few states, with mid-range priced homes becoming scarcer.<br/>
-
-Surprisingly, Montana emerged as the state with the highest overall change in top-tier home values since 2019.<br/>
-
+The Upper East Side, Upper West Side  and Midtown East had the highest number of properties sold per neighborhood. 
+<br/> 
+The dropoff in sales from Jan 2023 is evident in the scatter plot we made.  Sales prices were scant and mostly in the mid six figures. 
+<br/> 
+Another interesting finding was that Tribeca, although it lead in smallest square footage per unit, in relation to size, was one of the most expensive properties per square foot. 
 
 ## Conclusion 
-In this project, we embarked on a journey to explore Zillow's Top Tier Home Value data with the goal of understanding market trends, changes in home values, and emerging patterns in the real estate market. Through a combination of Python programming, SQL queries, data cleansing, and visualization, we delved into the dataset to uncover valuable insights.
-
-Average Home Values: We examined the average home values by state in both September 2019 and September 2023, allowing us to observe the evolving landscape of top-tier home values over time.
-
-Change in ZHVI: We identified the states with the highest changes in Zillow Home Value Index (ZHVI) to gain insights into which regions experienced the most significant shifts in property values.
-
-Top 5 States with Highest Average Top Tier Home Values: We determined the top five states with the highest average top-tier home values, shedding light on the most sought-after real estate markets.
-
-
+In this project
 In conclusion, we've unlocked valuable information about top-tier home values, changes in ZHVI, and the evolving real estate market, paving the way for more informed decision-making in the world of real estate.
 
 ## Tech Stack 
