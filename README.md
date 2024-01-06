@@ -37,7 +37,7 @@ We will generate information for a fictional survey which details salaries, surv
 ![avgsal](https://github.com/guzmanwolfrank/SQL/assets/29739578/ab03cdfb-4e17-4255-9f6e-6cf590fbe930)
 
 
-#### [ManhattanRE](https://github.com/guzmanwolfrank/Data-SQL/tree/manhattanre/ManhattanRE):This project aims to analyze and visualize Manhattan Rolling Sales Data from November 2022 to October 2023 using Python and Plotly. 
+#### [ManhattanRE](https://github.com/guzmanwolfrank/Data-SQL/tree/main/ManhattanRE):This project aims to analyze and visualize Manhattan Rolling Sales Data from November 2022 to October 2023 using Python and Plotly. 
 
 
 
