@@ -114,9 +114,14 @@ The  initial questions we hope to explore and answer are:
 
         # SQL Queries 
 
-        We will use SQL Queries to explore the data within the ZHVI file and dataframe we build off of it. 
+        We will use SQL Queries to explore the data within the CSV file and dataframe we build off of it. 
 
         In order to do so, we must the load the CSV data into a SQLite Database and connect to the database.  
+
+                Read the CSV File
+                csv_file = r'C:\Users\Wolfrank\Desktop\Data-SQL\ManhattanRE\Data\ManhattanData.csv'
+                df = pd.read_csv(csv_file).round(2)
+
 
 <br/>
 
@@ -179,7 +184,10 @@ Here is a list of SQL Queries for analysis:
 
 We can use the output of the SQL Queries to construct visualizations such as histograms of the data we have cleaned and queried.
 
-![chart5](https://github.com/guzmanwolfrank/Data-SQL/assets/29739578/36d6666c-ba4f-4c10-ac51-c548a6b55afe)
+
+![chart3](https://github.com/guzmanwolfrank/Data-SQL/blob/manhattanre/ManhattanRE/Img/q3.png)
+
+
 
 
 ## Findings 
@@ -208,9 +216,9 @@ In conclusion, we've unlocked valuable information about top-tier home values, c
 plotly==5.18.0 <br/>
 pandas==2.0.3 <br/>
 matplotlib==3.7.2 <br/>
-numpy==1.25.2  <br/>
 
-    Software: SQL,Google Looker, Streamlit, GoogleSheets, Python 3.11, VS Code, Jupyter Notebook
+
+    Software: SQL, GoogleSheets, Python 3.11, VS Code, Jupyter Notebook, Tableau 
     Languages: SQL, Python
     Modules: Plotly, Pandas, SQLite3, Matplotlib
 
