@@ -226,7 +226,6 @@ This suggests that factors like location, amenities, and building type might pla
 
 Even more surprising is the second-highest frequency (5.28%) of sales for Class 4 properties (offices, factories, etc.), potentially hinting at unique investment opportunities or zoning changes influencing market trends. Further research could delve deeper into these unexpected findings and their potential impact on Manhattan's diverse real estate landscape.
 
-This revised conclusion provides a more nuanced and insightful interpretation of the data, leaving the reader with a clearer understanding and a desire to learn more.
 
  
 
