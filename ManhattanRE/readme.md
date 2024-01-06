@@ -182,11 +182,16 @@ Here is a list of SQL Queries for analysis:
 
 ## Plotly Visualizations 
 
-We can use the output of the SQL Queries to construct visualizations such as histograms of the data we have cleaned and queried.
+We can use the output of the SQL Queries to construct visualizations such as scatter plots of the data we have cleaned and queried.
 
 
 ![chart3](https://github.com/guzmanwolfrank/Data-SQL/blob/manhattanre/ManhattanRE/Img/q3.png)
 
+![chart1](https://github.com/guzmanwolfrank/Data-SQL/blob/manhattanre/ManhattanRE/Img/q1.png)
+
+![chart4](https://github.com/guzmanwolfrank/Data-SQL/blob/manhattanre/ManhattanRE/Img/q4.png)
+
+![chart6](https://github.com/guzmanwolfrank/Data-SQL/blob/manhattanre/ManhattanRE/Img/q6.png)
 
 
 
