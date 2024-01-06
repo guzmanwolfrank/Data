@@ -88,10 +88,26 @@ The  initial questions we hope to explore and answer are:
 ## Data Dictionary
 **Variable** |    **Value**    | **Meaning**
 ---|---|---
-*Date* | Datetime object | The year of the data source
-*SizeRank* | Float | A rank number is assigned to States.  The number 1 is the hihgest ranked state according to population and size. 
-*State* | String | Name of state 
-*ZHVI Value* | Float | A measure of the typical home value and market changes across a given region and housing type. It reflects the typical value for homes in the 35th to 65th percentile range. 
+*RECORD INDEX* | Float | The index of the record 
+*NEIGHBORHOOD* | Float | A rank number is assigned to States.  The number 1 is the hihgest ranked state according to population and size. 
+*BLDGCAT* | String | Name of state 
+*BLDGDESCRIPTION* | Float | A measure of the typical home value and market changes across a given region and housing type. It reflects the typical value for homes in the 35th to 65th percentile range. 
+*TAXCLP* | Datetime object | The year of the data source
+*BLOCK* | Float | A rank number is assigned to States.  The number 1 is the hihgest ranked state according to population and size. 
+*LOT* | String | Name of state 
+*BLDGCP* | Float | A measure of the typical home value and market changes across a given region and housing type. It reflects the typical value for homes in the 35th to 65th percentile range. 
+*ADDRESS* | Datetime object | The year of the data source
+*ZIP_CODE* | Float | A rank number is assigned to States.  The number 1 is the hihgest ranked state according to population and size. 
+*RESIDENTIAL_ UNITS* | String | Name of state 
+*COMMERCIAL_UNITS* | Float | A measure of the typical home value and market changes across a given region and housing type. It reflects the typical value for homes in the 35th to 65th percentile range. 
+*UNITS* | Datetime object | The year of the data source
+*LANDSFT* | Float | A rank number is assigned to States.  The number 1 is the hihgest ranked state according to population and size. 
+*GROSSSF* | String | Name of state 
+*BUILT* | Float | A measure of the typical home value and market changes across a given region and housing type. It reflects the typical value for homes in the 35th to 65th percentile range. 
+*TAXCLSALE* | Datetime object | The year of the data source
+*BLDGCTOS* | Float | A rank number is assigned to States.  The number 1 is the hihgest ranked state according to population and size. 
+*SALE_PRICE* | String | Name of state 
+*SALE_DATE* | Float | A measure of the typical home value and market changes across a given region and housing type. It reflects the typical value for homes in the 35th to 65th percentile range. 
 
 
 ## Exploring the Data 
