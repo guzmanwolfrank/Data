@@ -159,7 +159,7 @@ Here is a list of SQL Queries for analysis:
 
 
 
-## Seaborn Visualizations 
+## Plotly Visualizations 
 
 We can use the output of the SQL Queries to construct visualizations such as histograms of the data we have cleaned and queried.
 
@@ -189,14 +189,14 @@ Top 5 States with Highest Average Top Tier Home Values: We determined the top fi
 In conclusion, we've unlocked valuable information about top-tier home values, changes in ZHVI, and the evolving real estate market, paving the way for more informed decision-making in the world of real estate.
 
 ## Tech Stack 
-seaborn==0.12.2 <br/>
+plotly==5.18.0 <br/>
 pandas==2.0.3 <br/>
 matplotlib==3.7.2 <br/>
 numpy==1.25.2  <br/>
 
     Software: SQL,Google Looker, Streamlit, GoogleSheets, Python 3.11, VS Code, Jupyter Notebook
     Languages: SQL, Python
-    Modules: Seaborn, Pandas, SQLite3, Matplotlib
+    Modules: Plotly, Pandas, SQLite3, Matplotlib
 
 
 ## Badges 
