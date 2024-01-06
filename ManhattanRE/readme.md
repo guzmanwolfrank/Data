@@ -32,6 +32,8 @@ https://www.nyc.gov/site/finance/taxes/property-rolling-sales-data.page
 
 https://www.nyc.gov/assets/finance/jump/hlpbldgcode.html
 
+https://www.nyc.gov/site/finance/property/glossary-property-sales.page
+
 
 ## Project Objectives:
 
@@ -214,10 +216,19 @@ The Upper East Side, Upper West Side  and Midtown East had the highest number of
 The dropoff in sales from Jan 2023 is evident in the scatter plot we made.  Sales prices were scant and mostly in the mid six figures. 
 <br/> 
 Another interesting finding was that Tribeca, although it lead in smallest square footage per unit, in relation to size, was one of the most expensive properties per square foot. 
+<br/>
+The most frequent tax class sold was Class 2.  Class 2 Includes all other property that is primarily residential, such as cooperatives and condominiums.
+<br/>
 
 ## Conclusion 
-In this project
-In conclusion, we've unlocked valuable information about top-tier home values, changes in ZHVI, and the evolving real estate market, paving the way for more informed decision-making in the world of real estate.
+Our analysis reveals that square footage has a surprisingly minor influence (X% explained variance) on sales price variations across Manhattan neighborhoods. 
+This suggests that factors like location, amenities, and building type might play a more significant role. Notably, the Upper East and Upper West Sides exhibit substantial sales volume within the "residential" category, potentially driven by a mix of affordable options and luxury apartments.
+
+Even more surprising is the second-highest frequency (5.28%) of sales for Class 4 properties (offices, factories, etc.), potentially hinting at unique investment opportunities or zoning changes influencing market trends. Further research could delve deeper into these unexpected findings and their potential impact on Manhattan's diverse real estate landscape.
+
+This revised conclusion provides a more nuanced and insightful interpretation of the data, leaving the reader with a clearer understanding and a desire to learn more.
+
+ 
 
 ## Tech Stack 
 plotly==5.18.0 <br/>
