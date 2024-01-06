@@ -2,7 +2,6 @@
 Data Project by
 #### Wolfrank Guzman <br/>
 GitHub: [guzmanwolfrank](#) <br/>
-Website: [guzmanwolfrank.com](#) <br/>
 
 #
 
