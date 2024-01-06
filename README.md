@@ -45,5 +45,5 @@ We will generate information for a fictional survey which details salaries, surv
     Languages: SQL, Python
     Modules: Plotly, Pandas, SQLite3
 
-
+![image](https://github.com/guzmanwolfrank/Data-SQL/blob/manhattanre/ManhattanRE/Img/q3.png)
 
