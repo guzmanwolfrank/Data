@@ -213,7 +213,7 @@ The Upper East Side, Upper West Side  and Midtown East had the highest number of
 <br/> 
 The dropoff in sales from Jan 2023 is evident in the scatter plot we made.  Sales prices were scant and mostly in the mid six figures. 
 <br/> 
-Another interesting finding was that Tribeca, although it lead in smallest square footage per unit, in relation to size, was one of the most expensive properties per square foot. 
+Another interesting statistic was that Tribeca, although it lead in smallest square footage per unit, in relation to size, was one of the most expensive properties per square foot. 
 <br/>
 The most frequent tax class sold was Class 2.  Class 2 Includes all other property that is primarily residential, such as cooperatives and condominiums.
 <br/>
