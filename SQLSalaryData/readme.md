@@ -15,6 +15,9 @@ In this SQL project we combine Python and SQL while generating fictional data us
 
 ## To view the Tableau Dashboard, click [here](https://public.tableau.com/app/profile/wolfrank.guzman/viz/SurveyLaborData/Dashboard1?publish=yes)
 
+![tableaudash](https://github.com/guzmanwolfrank/Data-SQL/assets/29739578/4b76850d-0af8-428f-af11-c7ab6662fe4a)
+
+
 ## Goals 
 To practice using SQL Queries to solve problems and analyze randomly generated data.  Another goal was to simply use the Faker module and see how flexible it is generating data for 
 visualization purposes.  Generating Fake data is also useful in algorithmic research when running algorithms multiple times to find patterns in random sequences. 
