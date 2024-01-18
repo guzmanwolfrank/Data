@@ -7,7 +7,7 @@
 
 Here we analyze Zillow Housing Data to check for highest cost locations, market trends and other patterns. 
 
-This SQL project takes us through Python programming, SQL data cleansing, data analysis and data presentation via dashboard.  
+This SQL project takes us through Python programming, SQL data cleansing, data analysis and data presentation via Tableau dashboard.  
 
 ### To view the project's Jupyter notebook, click [here](https://github.com/guzmanwolfrank/SQL/blob/main/SQL%20Zillow/ZillowProject.ipynb).
 
@@ -90,6 +90,8 @@ seaborn==0.12.2 <br/>
 pandas==2.0.3 <br/>
 matplotlib==3.7.2 <br/>
 numpy==1.25.2  <br/>
+pandasql==0.7.3  <br/>
+tableau==2023.3  <br/>
 
     Software: SQL,Google Looker, Streamlit, GoogleSheets, Python 3.11, VS Code, Jupyter Notebook
     Languages: SQL, Python
