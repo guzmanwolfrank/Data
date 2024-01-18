@@ -13,6 +13,7 @@ In this SQL project we combine Python and SQL while generating fictional data us
 
 ## To view the project code and Jupyter notebook, click [here](https://github.com/guzmanwolfrank/Data-SQL/blob/main/SQLSalaryData/RandomData.ipynb)
 
+## To view the Tableau Dashboard, click [here](https://public.tableau.com/app/profile/wolfrank.guzman/viz/SurveyLaborData/Dashboard1?publish=yes)
 
 ## Goals 
 To practice using SQL Queries to solve problems and analyze randomly generated data.  Another goal was to simply use the Faker module and see how flexible it is generating data for 
