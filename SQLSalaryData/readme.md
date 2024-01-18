@@ -4,6 +4,8 @@
 
 ## Project Description
 
+![tableaudash](https://github.com/guzmanwolfrank/Data-SQL/assets/29739578/4b76850d-0af8-428f-af11-c7ab6662fe4a)
+
 In this SQL project we combine Python and SQL while generating fictional data using the Faker module. We will generate information for a fictional survey which details salaries, survey questions, age and other data to then analyze and look for patterns in the data.
 
 
@@ -14,8 +16,6 @@ In this SQL project we combine Python and SQL while generating fictional data us
 ## To view the project code and Jupyter notebook, click [here](https://github.com/guzmanwolfrank/Data-SQL/blob/main/SQLSalaryData/RandomData.ipynb)
 
 ## To view the Tableau Dashboard, click [here](https://public.tableau.com/app/profile/wolfrank.guzman/viz/SurveyLaborData/Dashboard1?publish=yes)
-
-![tableaudash](https://github.com/guzmanwolfrank/Data-SQL/assets/29739578/4b76850d-0af8-428f-af11-c7ab6662fe4a)
 
 
 ## Goals 
