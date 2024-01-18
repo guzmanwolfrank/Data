@@ -235,6 +235,8 @@ Even more surprising is the second-highest frequency (5.28%) of sales for Class 
 plotly==5.18.0 <br/>
 pandas==2.0.3 <br/>
 matplotlib==3.7.2 <br/>
+Tableau==2023.3 <br/>
+
 
 
     Software: SQL, GoogleSheets, Python 3.11, VS Code, Jupyter Notebook, Tableau 
