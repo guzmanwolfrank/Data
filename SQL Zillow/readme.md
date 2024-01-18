@@ -7,7 +7,7 @@
 
 Here we analyze Zillow Housing Data to check for highest cost locations, market trends and other patterns. 
 
-This SQL project takes us through Python programming, SQL data cleansing, data analysis and data presentation via dashboard.  
+This SQL project takes us through Python programming, SQL data cleansing, data analysis and data presentation via Tableau dashboard.  
 
 ### To view the project's Jupyter notebook, click [here](https://github.com/guzmanwolfrank/SQL/blob/main/SQL%20Zillow/ZillowProject.ipynb).
 
@@ -79,22 +79,19 @@ Surprisingly, Montana emerged as the state with the highest overall change in to
 
 
 ## Conclusion 
-In this project, we embarked on a journey to explore Zillow's Top Tier Home Value data with the goal of understanding market trends, changes in home values, and emerging patterns in the real estate market. Through a combination of Python programming, SQL queries, data cleansing, and visualization, we delved into the dataset to uncover valuable insights.
+In summary, our exploration of Zillow's Top Tier Home Value data has provided a comprehensive understanding of market trends, fluctuations in home values, and emerging patterns in the real estate sector. Leveraging Python programming, SQL queries, data cleansing, and visualization techniques, we navigated through the dataset, revealing insightful findings.
 
-Average Home Values: We examined the average home values by state in both September 2019 and September 2023, allowing us to observe the evolving landscape of top-tier home values over time.
+Analyzing the average home values across states in September 2019 and September 2023 allowed us to track the dynamic evolution of top-tier home values over the years. Additionally, pinpointing states with the highest changes in Zillow Home Value Index (ZHVI) provided valuable insights into regions undergoing significant shifts in property values.
 
-Change in ZHVI: We identified the states with the highest changes in Zillow Home Value Index (ZHVI) to gain insights into which regions experienced the most significant shifts in property values.
-
-Top 5 States with Highest Average Top Tier Home Values: We determined the top five states with the highest average top-tier home values, shedding light on the most sought-after real estate markets.
-
-
-In conclusion, we've unlocked valuable information about top-tier home values, changes in ZHVI, and the evolving real estate market, paving the way for more informed decision-making in the world of real estate.
+Our investigation culminated in the identification of the top five states boasting the highest average top-tier home values, offering a glimpse into the most coveted real estate markets. In conclusion, this project has unearthed essential information about top-tier home values, ZHVI fluctuations, and the evolving real estate landscape, empowering stakeholders with knowledge for more informed decision-making in the realm of real estate.
 
 ## Tech Stack 
 seaborn==0.12.2 <br/>
 pandas==2.0.3 <br/>
 matplotlib==3.7.2 <br/>
 numpy==1.25.2  <br/>
+pandasql==0.7.3  <br/>
+tableau==2023.3  <br/>
 
     Software: SQL,Google Looker, Streamlit, GoogleSheets, Python 3.11, VS Code, Jupyter Notebook
     Languages: SQL, Python
