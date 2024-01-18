@@ -117,6 +117,7 @@ State and local governments should create policies that attract and retain high-
 
 ## Tech Stack / Requirements 
 
+Tableau = 2023.3 <br/> 
 pandas==2.0.3 <br/> 
 random==3.10 <br/>
 faker==19.6.1 <br/>
