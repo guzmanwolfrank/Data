@@ -12,7 +12,7 @@ In this SQL project we combine Python and SQL while generating fictional data us
         Languages: SQL, Python
         Modules: Faker, Seaborn, Pandas, SQLite3, Matplotlib
 
-***Disclaimer:  This data was generated with Faker Python Module, every instance of running the notebook will generate new, random, illogical data.  
+### ***Disclaimer:  This data was generated with Faker Python Module, every instance of running the notebook will generate new, random, illogical data.  
 The purpose of this project is to experiment and explore random data with the Faker module.  We can then display this random data using Tableau.  
 
 
