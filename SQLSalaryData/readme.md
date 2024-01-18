@@ -12,6 +12,11 @@ In this SQL project we combine Python and SQL while generating fictional data us
         Languages: SQL, Python
         Modules: Faker, Seaborn, Pandas, SQLite3, Matplotlib
 
+***Disclaimer:  This data was generated with Faker Python Module, every instance of running the notebook will generate new, random, illogical data.  
+The purpose of this project is to experiment and explore random data with the Faker module.  We can then display this random data using Tableau.  
+
+
+
 ## To view the project code and Jupyter notebook, click [here](https://github.com/guzmanwolfrank/Data-SQL/blob/main/SQLSalaryData/RandomData.ipynb)
 
 ## To view the Tableau Dashboard, click [here](https://public.tableau.com/app/profile/wolfrank.guzman/viz/SurveyLaborData/Dashboard1?publish=yes)
