@@ -40,6 +40,7 @@ We will analyze Zillow's Top Tier Home Price Index and look for patterns and ana
 We will generate information for a fictional survey which details salaries, survey questions, age and other data to then analyze and look for patterns in the data.  
 
 
+![tableaudash](https://github.com/guzmanwolfrank/Data-SQL/assets/29739578/4b76850d-0af8-428f-af11-c7ab6662fe4a)
 
 
 
