@@ -8,7 +8,7 @@ This folder contains a collection of SQL and Data projects.
 
 #### [ManhattanRE](https://github.com/guzmanwolfrank/Data-SQL/tree/main/ManhattanRE):This project aims to analyze and visualize Manhattan Rolling Sales Data from November 2022 to October 2023 using Python and Plotly. 
 
-
+![Dashboard 1](https://github.com/guzmanwolfrank/Data-SQL/assets/29739578/367558d3-89cc-4c35-82e3-db35fcea76b9)
 
 
     Software: SQL,Plotly, Python 3.11, VS Code, Jupyter Notebook
