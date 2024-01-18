@@ -1,17 +1,25 @@
 ## SQL: Salary Data
 
-![avgsal](https://github.com/guzmanwolfrank/SQL/assets/29739578/b161b907-2b5c-46a6-b4e3-21ab12414a54)
+![tableaudash](https://github.com/guzmanwolfrank/Data-SQL/assets/29739578/4b76850d-0af8-428f-af11-c7ab6662fe4a)
+
 
 ## Project Description
 
 In this SQL project we combine Python and SQL while generating fictional data using the Faker module. We will generate information for a fictional survey which details salaries, survey questions, age and other data to then analyze and look for patterns in the data.
 
 
-        Software: SQL, Python 3.11, VS Code, Jupyter Notebook
+        Software:  Tableau, Excel, SQL, Python 3.11, VS Code, Jupyter Notebook
         Languages: SQL, Python
         Modules: Faker, Seaborn, Pandas, SQLite3, Matplotlib
 
+### ***Disclaimer:  This data was generated with Faker Python Module, every instance of running the notebook will generate new, random, illogical data.  
+The purpose of this project is to experiment and explore random data with the Faker module.  We can then display this random data using Tableau.  
+
+
+
 ## To view the project code and Jupyter notebook, click [here](https://github.com/guzmanwolfrank/Data-SQL/blob/main/SQLSalaryData/RandomData.ipynb)
+
+## To view the Tableau Dashboard, click [here](https://public.tableau.com/app/profile/wolfrank.guzman/viz/SurveyLaborData/Dashboard1?publish=yes)
 
 
 ## Goals 
