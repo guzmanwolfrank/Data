@@ -14,7 +14,9 @@ This project aims to analyze and visualize Manhattan Rolling Sales Data from Nov
 
 ### To view the project's Jupyter notebook, click [here](https://github.com/guzmanwolfrank/Data-SQL/blob/main/ManhattanRE/Project/manhtRE.ipynb)
 
-### To view the project's Tableau Dashboard, click [here](https://public.tableau.com/views/ManhattanRE/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+### To view the project's Tableau Dashboard, click [here](https://public.tableau.com/shared/JCXXTB699?:display_count=n&:origin=viz_share_link)
+
+![Dashboard 1](https://github.com/guzmanwolfrank/Data-SQL/assets/29739578/367558d3-89cc-4c35-82e3-db35fcea76b9)
 
 ## Data Description:
 
@@ -23,9 +25,15 @@ The Manhattan Rolling Sales Data comprises information on properties that have s
 
 ## Tools and Technologies:
 
+SQL:  Database management and table creation.  
+
 Python: A versatile programming language widely used for data analysis and manipulation.
 
-Seaborn: A Python library for data visualization that provides a high-level interface for creating aesthetically pleasing and informative plots.
+Tableau:  A dashboard application for data visualizations. 
+
+Google Sheets:  Data and CSV file creation and editing. 
+
+Plotly:  Data module used in Python for data visualization. 
 
 ## Links 
 
@@ -233,6 +241,8 @@ Even more surprising is the second-highest frequency (5.28%) of sales for Class 
 plotly==5.18.0 <br/>
 pandas==2.0.3 <br/>
 matplotlib==3.7.2 <br/>
+Tableau==2023.3 <br/>
+
 
 
     Software: SQL, GoogleSheets, Python 3.11, VS Code, Jupyter Notebook, Tableau 
