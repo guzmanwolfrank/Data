@@ -14,7 +14,7 @@ This project aims to analyze and visualize Manhattan Rolling Sales Data from Nov
 
 ### To view the project's Jupyter notebook, click [here](https://github.com/guzmanwolfrank/Data-SQL/blob/main/ManhattanRE/Project/manhtRE.ipynb)
 
-### To view the project's Tableau Dashboard, click [here](https://public.tableau.com/views/ManhattanRE/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+### To view the project's Tableau Dashboard, click [here](https://public.tableau.com/shared/JCXXTB699?:display_count=n&:origin=viz_share_link)
 
 ![Dashboard 1](https://github.com/guzmanwolfrank/Data-SQL/assets/29739578/367558d3-89cc-4c35-82e3-db35fcea76b9)
 
