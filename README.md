@@ -11,7 +11,7 @@ This folder contains a collection of SQL and Data projects.
 ![Dashboard 1](https://github.com/guzmanwolfrank/Data-SQL/assets/29739578/367558d3-89cc-4c35-82e3-db35fcea76b9)
 
 
-    Software: SQL,Plotly, Python 3.11, VS Code, Jupyter Notebook
+    Software: SQL,Plotly, Python 3.11, Tableau, VS Code, Jupyter Notebook
     Languages: SQL, Python
     Modules: Plotly, Pandas, SQLite3
 
