@@ -25,9 +25,15 @@ The Manhattan Rolling Sales Data comprises information on properties that have s
 
 ## Tools and Technologies:
 
+SQL:  Database management and table creation.  
+
 Python: A versatile programming language widely used for data analysis and manipulation.
 
-Seaborn: A Python library for data visualization that provides a high-level interface for creating aesthetically pleasing and informative plots.
+Tableau:  A dashboard application for data visualizations. 
+
+Google Sheets:  Data and CSV file creation and editing. 
+
+Plotly:  Data module used in Python for data visualization. 
 
 ## Links 
 
