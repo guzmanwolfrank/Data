@@ -16,6 +16,8 @@ This project aims to analyze and visualize Manhattan Rolling Sales Data from Nov
 
 ### To view the project's Tableau Dashboard, click [here](https://public.tableau.com/views/ManhattanRE/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
+![Dashboard 1](https://github.com/guzmanwolfrank/Data-SQL/assets/29739578/367558d3-89cc-4c35-82e3-db35fcea76b9)
+
 ## Data Description:
 
 The Manhattan Rolling Sales Data comprises information on properties that have sold in the last twelve-month period in Manhattan, categorized under tax classes 1, 2, and 4. Key attributes within the dataset include the property's neighborhood, building type, square footage, and other relevant details.   Sales Data as of 11/8/2023
