@@ -1,6 +1,7 @@
 # SQL: Zillow 
 
-![download](https://github.com/guzmanwolfrank/SQL/assets/29739578/d03867fe-9822-40ed-b670-83ba3501df99)
+
+![zhvitableau](https://github.com/guzmanwolfrank/Data-SQL/assets/29739578/91066727-3cc3-4e1f-afa4-3455ff2cb8f5)
 
 
 ## Project Description
@@ -10,6 +11,9 @@ Here we analyze Zillow Housing Data to check for highest cost locations, market 
 This SQL project takes us through Python programming, SQL data cleansing, data analysis and data presentation via Tableau dashboard.  
 
 ### To view the project's Jupyter notebook, click [here](https://github.com/guzmanwolfrank/SQL/blob/main/SQL%20Zillow/ZillowProject.ipynb).
+
+### To view the project's Tableau Dashboard, click [here](https://public.tableau.com/app/profile/wolfrank.guzman/viz/Zillow_17058726514280/Dashboard2?publish=yes).
+
 
 ## Goals 
 
