@@ -12,6 +12,9 @@ This SQL project takes us through Python programming, SQL data cleansing, data a
 
 ### To view the project's Jupyter notebook, click [here](https://github.com/guzmanwolfrank/SQL/blob/main/SQL%20Zillow/ZillowProject.ipynb).
 
+### To view the project's Tableau Dashboard, click [here](https://public.tableau.com/app/profile/wolfrank.guzman/viz/Zillow_17058726514280/Dashboard2?publish=yes).
+
+
 ## Goals 
 
 Our goal is to use SQL queries to help analyze data from Zillow's Top Tier Housing Data. Our goals are also to see what changes have occured on Top Tier Home Values in all 50 states and Washington DC.
