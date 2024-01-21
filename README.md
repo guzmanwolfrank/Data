@@ -24,6 +24,9 @@ This folder contains a collection of SQL and Data projects.
 
 #### [SQL Zillow](https://github.com/guzmanwolfrank/SQL/tree/main/SQL%20Zillow): Here we analyze Zillow Housing Data to check for highest cost locations, market trends and other patterns. 
 
+![zhvitableau](https://github.com/guzmanwolfrank/Data-SQL/assets/29739578/91066727-3cc3-4e1f-afa4-3455ff2cb8f5)
+
+
 We will analyze Zillow's Top Tier Home Price Index and look for patterns and analyze data.  
 
 
