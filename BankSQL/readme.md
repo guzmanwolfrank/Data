@@ -80,6 +80,8 @@ df.to_sql('banking_data', conn, if_exists='replace', index=False)
 # Close the connection
 conn.close()
 
+```
+
 ### 2. Running SQL Queries
 
 Run SQL queries on the SQLite database using the following script:
