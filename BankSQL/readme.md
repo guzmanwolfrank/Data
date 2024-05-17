@@ -79,3 +79,27 @@ df.to_sql('banking_data', conn, if_exists='replace', index=False)
 
 # Close the connection
 conn.close()
+
+### 2. Running SQL Queries
+
+Run SQL queries on the SQLite database using the following script:
+
+```python
+import sqlite3
+
+# Connect to the SQLite database
+conn = sqlite3.connect('data/banking_data.db')
+cursor = conn.cursor()
+
+# Sample query
+query = "SELECT * FROM banking_data WHERE amount > 1000"
+result = cursor.execute(query).fetchall()
+
+# Print the result
+for row in result:
+    print(row)
+
+# Close the connection
+conn.close()
+
+
