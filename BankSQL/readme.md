@@ -106,7 +106,8 @@ conn.close()
 ```
 ### 3. Looker Dashboard
 
-To visualize the data, import the SQL database into Looker and create dashboards to represent the data insights. Documentation on how to do this can be found in the [Looker Documentation](https://docs.looker.com/).
+To visualize the data, I used Looker.  
+## The Looker Dashboard can be found here (link#). 
 
 ### 4. SSIS and SSIR Reports
 
@@ -120,6 +121,9 @@ The CSV file contains the following columns related to banking and money movemen
 - `AccountID`: Unique identifier for each account
 - `TransactionDate`: Date of the transaction
 - `Amount`: Amount of money moved in the transaction
+- `TransactionType`: Type of transaction (e.g., deposit, withdrawal)
+- `Description`: Description of the transaction
+- - `Amount`: Amount of money moved in the transaction
 - `TransactionType`: Type of transaction (e.g., deposit, withdrawal)
 - `Description`: Description of the transaction
 
