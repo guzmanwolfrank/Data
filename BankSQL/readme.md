@@ -123,9 +123,16 @@ The CSV file contains the following columns related to banking and money movemen
 - `Amount`: Amount of money moved in the transaction
 - `TransactionType`: Type of transaction (e.g., deposit, withdrawal)
 - `Description`: Description of the transaction
-- - `Amount`: Amount of money moved in the transaction
-- `TransactionType`: Type of transaction (e.g., deposit, withdrawal)
-- `Description`: Description of the transaction
+- `First Name`: First name of the account holder
+- `Last Name`: Last name of the account holder
+- `VendorID`: Unique identifier for each vendor
+- `FeeID`: Unique identifier for each fee
+- `FeePayable`: Amount of fee payable
+- `Card`: Type of card used (e.g., Virtual, Physical)
+- `MCC GroupName`: Merchant Category Code group name
+- `Channel`: Channel through which the transaction was made
+- `CardState`: State of the card (e.g., active, inactive)
+- `CardToken`: Tokenized representation of the card
 
 ## Contributing
 
