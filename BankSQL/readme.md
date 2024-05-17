@@ -103,5 +103,31 @@ for row in result:
 
 # Close the connection
 conn.close()
+```
+### 3. Looker Dashboard
 
+To visualize the data, import the SQL database into Looker and create dashboards to represent the data insights. Documentation on how to do this can be found in the [Looker Documentation](https://docs.looker.com/).
+
+### 4. SSIS and SSIR Reports
+
+Generate reports using SSIS and SSIR. For detailed instructions on creating and running reports, refer to the [SSIS Documentation](https://docs.microsoft.com/en-us/sql/integration-services/sql-server-integration-services) and [SSIR Documentation](https://docs.microsoft.com/en-us/sql/reporting-services/create-deploy-and-manage-mobile-and-paginated-reports).
+
+## Spreadsheet Columns Reference
+
+The CSV file contains the following columns related to banking and money movement:
+
+- `TransactionID`: Unique identifier for each transaction
+- `AccountID`: Unique identifier for each account
+- `TransactionDate`: Date of the transaction
+- `Amount`: Amount of money moved in the transaction
+- `TransactionType`: Type of transaction (e.g., deposit, withdrawal)
+- `Description`: Description of the transaction
+
+## Contributing
+
+Contributions are welcome! Please read the [contributing guidelines](CONTRIBUTING.md) before you start.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
