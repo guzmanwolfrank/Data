@@ -21,8 +21,7 @@ Additionally, the project generates an HTML file with the Looker dashboard embed
 - `Notebooks/`: Includes Python script for data transformation, SQL operations, and visualization.  
 - `output_images/`: Stores generated output images from Seaborn plots.
 - `README.md`: Project documentation.
-
-
+- `banking_data_analysis.html`: Project HTML with embedded Looker Dashboard.
 
 ### Prerequisites
 
