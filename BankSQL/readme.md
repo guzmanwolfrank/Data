@@ -18,7 +18,7 @@ Additionally, the project generates an HTML file with the Looker dashboard embed
 ## Project Structure
 
 - `data/`: Contains the original CSV file and any additional data files.
-- `Notebooks/`: Includes Python script for data transformation, SQL operations, and visualization.  
+- `Notebooks/`: Project Code. Includes Python script for data transformation, SQL operations, and visualization and HTML code.  
 - `output_images/`: Stores generated output images from Seaborn plots.
 - `README.md`: Project documentation.
 - `banking_data_analysis.html`: Project HTML with embedded Looker Dashboard.
@@ -56,6 +56,16 @@ The CSV file contains the following columns related to the Banking CSV File:
 - **CardState**: State of the card (e.g., active, inactive)
 - **CardToken**: Tokenized representation of the card
 
+## SQL Queries 
 
+queries = [
+    ("SELECT * FROM banking_data LIMIT 10;", "Select first 10 rows"),  # 1. Select first 10 rows
+    ("SELECT COUNT(*) AS Total_Transactions FROM banking_data;", "Count the number of rows"),  # 2. Count the number of rows
+    ("SELECT DISTINCT TransactionType FROM banking_data;", "Select distinct transaction types"),  # 3. Select distinct transaction types
+    ("SELECT AVG(Amount) AS Avg_Amount FROM banking_data;", "Calculate the average transaction amount"),  # 4. Calculate the average transaction amount
+    ("SELECT StateID, COUNT(*) AS Transaction_Count FROM banking_data GROUP BY StateID;", "Count number of transactions per state"),  # 5. Count number of transactions per state
+    ("SELECT Currency, AVG(Amount) AS Avg_Amount FROM banking_data GROUP BY Currency;", "Average transaction amount per currency"),  # 6. Average transaction amount per currency
+    ("SELECT TransactionDate, Amount FROM banking_data ORDER BY Amount DESC LIMIT 5;", "Top 5 transactions by amount"),  # 7. Top 5 transactions by amount
+]
 
 
