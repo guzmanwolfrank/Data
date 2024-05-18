@@ -58,7 +58,7 @@ The CSV file contains the following columns related to the Banking CSV File:
 
 ## SQL Queries 
 
-queries = [
+queries = [<br> 
     # 1. Select first 10 rows ("SELECT * FROM banking_data LIMIT 10;", "Select first 10 rows"),  # 1. Select first 10 rows <br><br>
     ("SELECT COUNT(*) AS Total_Transactions FROM banking_data;", "Count the number of rows"),  # 2. Count the number of rows <br><br>
     ("SELECT DISTINCT TransactionType FROM banking_data;", "Select distinct transaction types"),  # 3. Select distinct transaction types <br><br>
