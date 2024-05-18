@@ -22,7 +22,7 @@ Additionally, the project generates an HTML file with the Looker dashboard embed
 - `output_images/`: Stores generated output images from Seaborn plots.
 - `README.md`: Project documentation.
 
-## Getting Started
+
 
 ### Prerequisites
 
@@ -33,4 +33,8 @@ Additionally, the project generates an HTML file with the Looker dashboard embed
 - Matplotlib
 - Looker SDK
 - AWS CLI (for S3 integration)
+
+
+
+
 
