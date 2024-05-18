@@ -69,3 +69,35 @@ queries = [<br> <br>
 ]
 
 
+## Visualizations 
+
+We can use our SQL Queries to generate Seaborn Visualizations 
+
+*image*
+
+
+![chart1](https://github.com/guzmanwolfrank/Data-SQL/blob/main/ManhattanRE/Img/q1.png)
+</br>
+
+![chart2](https://github.com/guzmanwolfrank/Data-SQL/blob/main/ManhattanRE/Img/q2.png)
+</br>
+
+![chart3](https://github.com/guzmanwolfrank/Data-SQL/blob/main/ManhattanRE/Img/q3.png)
+</br>
+
+![chart4](https://github.com/guzmanwolfrank/Data-SQL/blob/main/ManhattanRE/Img/q4.png)
+</br>
+
+![chart5](https://github.com/guzmanwolfrank/Data-SQL/blob/main/ManhattanRE/Img/q5.png)
+</br>
+
+![chart6](https://github.com/guzmanwolfrank/Data-SQL/blob/main/ManhattanRE/Img/q6.png)
+</br>
+
+
+## Findings 
+
+## Conclusion 
+
+## License 
+
