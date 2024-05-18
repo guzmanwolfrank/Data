@@ -76,22 +76,22 @@ We can use our SQL Queries to generate Seaborn Visualizations
 *image*
 
 
-![chart1](https://github.com/guzmanwolfrank/Data-SQL/blob/main/ManhattanRE/Img/q1.png)
+![chart1](https://github.com/guzmanwolfrank/Data-SQL/blob/86a3c797426a8a6252494e3f67c350e8c5ce43c5/BankSQL/output_images/plot_1.jpg)
 </br>
 
-![chart2](https://github.com/guzmanwolfrank/Data-SQL/blob/main/ManhattanRE/Img/q2.png)
+![chart2](https://github.com/guzmanwolfrank/Data-SQL/blob/86a3c797426a8a6252494e3f67c350e8c5ce43c5/BankSQL/output_images/plot_3.jpg)
 </br>
 
-![chart3](https://github.com/guzmanwolfrank/Data-SQL/blob/main/ManhattanRE/Img/q3.png)
+![chart3](https://github.com/guzmanwolfrank/Data-SQL/blob/86a3c797426a8a6252494e3f67c350e8c5ce43c5/BankSQL/output_images/plot_5.jpg)
 </br>
 
 ![chart4](https://github.com/guzmanwolfrank/Data-SQL/blob/5df0c1dec62e24e033452d48c6504331acc0a7b3/BankSQL/output_images/plot_1.jpg)
 </br>
 
-![chart5](https://github.com/guzmanwolfrank/Data-SQL/blob/main/ManhattanRE/Img/q5.png)
+![chart5](https://github.com/guzmanwolfrank/Data-SQL/blob/86a3c797426a8a6252494e3f67c350e8c5ce43c5/BankSQL/output_images/plot_6.png)
 </br>
 
-![chart6](https://github.com/guzmanwolfrank/Data-SQL/blob/main/ManhattanRE/Img/q6.png)
+![chart6](https://github.com/guzmanwolfrank/Data-SQL/blob/86a3c797426a8a6252494e3f67c350e8c5ce43c5/BankSQL/output_images/plot_7.jpg)
 </br>
 
 
