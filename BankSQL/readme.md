@@ -59,13 +59,13 @@ The CSV file contains the following columns related to the Banking CSV File:
 ## SQL Queries 
 
 queries = [
-    ("SELECT * FROM banking_data LIMIT 10;", "Select first 10 rows"),  # 1. Select first 10 rows <br>
-    ("SELECT COUNT(*) AS Total_Transactions FROM banking_data;", "Count the number of rows"),  # 2. Count the number of rows <br>
-    ("SELECT DISTINCT TransactionType FROM banking_data;", "Select distinct transaction types"),  # 3. Select distinct transaction types <br>
-    ("SELECT AVG(Amount) AS Avg_Amount FROM banking_data;", "Calculate the average transaction amount"),  # 4. Calculate the average transaction amount <br>
-    ("SELECT StateID, COUNT(*) AS Transaction_Count FROM banking_data GROUP BY StateID;", "Count number of transactions per state"),  # 5. Count number of transactions per state <br>
-    ("SELECT Currency, AVG(Amount) AS Avg_Amount FROM banking_data GROUP BY Currency;", "Average transaction amount per currency"),  # 6. Average transaction amount per currency <br>
-    ("SELECT TransactionDate, Amount FROM banking_data ORDER BY Amount DESC LIMIT 5;", "Top 5 transactions by amount"),  # 7. Top 5 transactions by amount <br>
+    ("SELECT * FROM banking_data LIMIT 10;", "Select first 10 rows"),  # 1. Select first 10 rows <br><br>
+    ("SELECT COUNT(*) AS Total_Transactions FROM banking_data;", "Count the number of rows"),  # 2. Count the number of rows <br><br>
+    ("SELECT DISTINCT TransactionType FROM banking_data;", "Select distinct transaction types"),  # 3. Select distinct transaction types <br><br>
+    ("SELECT AVG(Amount) AS Avg_Amount FROM banking_data;", "Calculate the average transaction amount"),  # 4. Calculate the average transaction amount <br><br>
+    ("SELECT StateID, COUNT(*) AS Transaction_Count FROM banking_data GROUP BY StateID;", "Count number of transactions per state"),  # 5. Count number of transactions per state <br><br>
+    ("SELECT Currency, AVG(Amount) AS Avg_Amount FROM banking_data GROUP BY Currency;", "Average transaction amount per currency"),  # 6. Average transaction amount per currency <br><br>
+    ("SELECT TransactionDate, Amount FROM banking_data ORDER BY Amount DESC LIMIT 5;", "Top 5 transactions by amount"),  # 7. Top 5 transactions by amount <br><br>
 ]
 
 
