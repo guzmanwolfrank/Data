@@ -18,7 +18,7 @@ Additionally, the project generates an HTML file with the Looker dashboard embed
 ## Project Structure
 
 - `data/`: Contains the original CSV file and any additional data files.
-- `scripts/`: Includes Python scripts for data transformation, SQL operations, and visualization.
+- `Notebooks/`: Includes Python script for data transformation, SQL operations, and visualization.  
 - `output_images/`: Stores generated output images from Seaborn plots.
 - `README.md`: Project documentation.
 
