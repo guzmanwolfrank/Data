@@ -85,7 +85,7 @@ We can use our SQL Queries to generate Seaborn Visualizations
 ![chart3](https://github.com/guzmanwolfrank/Data-SQL/blob/main/ManhattanRE/Img/q3.png)
 </br>
 
-![chart4](https://github.com/guzmanwolfrank/Data-SQL/blob/main/ManhattanRE/Img/q4.png)
+![chart4](https://github.com/guzmanwolfrank/Data-SQL/blob/5df0c1dec62e24e033452d48c6504331acc0a7b3/BankSQL/output_images/plot_1.jpg)
 </br>
 
 ![chart5](https://github.com/guzmanwolfrank/Data-SQL/blob/main/ManhattanRE/Img/q5.png)
