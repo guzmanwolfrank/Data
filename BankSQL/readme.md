@@ -2,7 +2,13 @@
 
 # Banking and Money Movement Data Project
 
-This project demonstrates the process of transforming a CSV file into a SQL database using Python and SQLite, and running SQL queries on the database. Additionally, it showcases how to create visualizations with Looker Dashboard and generate reports using SSIS and SSIR.
+This project demonstrates the process of transforming a CSV file into a Looker Dashboard and SQL database.  We can run queries on the data, and visualize these queries in Seaborn and Looker. 
+#
+The project then creates a HTML file, with the Looker dashboard embedded,  which we can then place in a AWS S3 bucket.  
+
+
+
+
 
 ## Table of Contents
 
