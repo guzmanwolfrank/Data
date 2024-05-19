@@ -121,20 +121,20 @@ The CSV file contains the following columns related to the Banking CSV File:
 
 ## Findings 
 
-# i.  We can see that Florida had the highest number overall of transactions while USD CASH had the highest average transaction amount per currency group. 
+### i.  We can see that Florida had the highest number overall of transactions while USD CASH had the highest average transaction amount per currency group. 
 <br><br>
 SQLBank can now look into how to make sure the Florida flagged transactions can be reduced.  Next steps can include running a Florida specific report on account status, late payments, and root causes for flagged transactions in the region. 
 <br><br>
 
-# ii. The average transaction amount that was flagged was around $3,000 dollars. 
+### ii. The average transaction amount that was flagged was around $3,000 dollars. 
 <br><br>
 SQLBank can now investigate further as to why this amount is the most common amongst flagged accounts.  Next month a SQL Query can be run as to focus on transactions in this bandwidth. 
 <br><br>
-# iii. Transfers had the highest amounts per transaction but Withdrawals were the most frequent.  
+### iii. Transfers had the highest amounts per transaction but Withdrawals were the most frequent.  
 <br><br>
 This is problematic as flagged withdrawals offer the least chance of recouping losses or fraudulent charges and transactions. We can now check our data and dashboard and see which regions had the highest withdrawals. 
 <br><br>
-# iv. The Dashboard reveals that the least problematic region for SQLBank is the West Coast.  
+### iv. The Dashboard reveals that the least problematic region for SQLBank is the West Coast.  
 <br><br>
 A manager from the Fraud team will be sent out to the California Branches along with the SouthWestern regions to investigate how things are run better there and why there are less flagged transactions.
 By contrasting business practices in the West Coast to the more problematic Eastern seaboard clients, SQLBank looks to bridge the gap within their flagged transactions and fraud departments. 
