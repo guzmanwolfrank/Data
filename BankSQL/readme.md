@@ -22,10 +22,14 @@ issue payment systems to their own customers.
 The payment systems take Cryptocurrencies, USD Cash and VendorBucks.  VendorBucks are whitelabeled credit cards issued by the Vendors to their customers.  The Vendors then borrow money from SQL Bank 
 in order to furnish credit and loans to their clients.  
 <br>
+Before making decisions, the Board has requested the Data Team to come up with unique Looker Dashboards using CSV files and SQL. 
+
 Here, we create a Python script that Transforms the Flagged Transaction Data CSV into SQL, then runs queries which are visualized in Seaborn.  We then use the CSV Data to make a Dashboard using Google Looker.  
 
 We can then embed the Dashboard into an HTML file with pertinent project data and analysis.  This HTML site is then downloaded and stored in an Amazon Web Services S3 Bucket for storage. 
+<br>
 
+By making a dashboard and running SQL queries -- SQLBank, can get a better understanding of their issues and how to solve them.  
 
 ## Links 
 
