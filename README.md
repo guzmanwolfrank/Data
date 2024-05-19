@@ -10,7 +10,7 @@ This folder contains a collection of SQL and Data projects.
 We will generate information for a fictional survey which details salaries, survey questions, age and other data to then analyze and look for patterns in the data.  
 
 
-![tableaudash](<img src="https://raw.githubusercontent.com/guzmanwolfrank/Data-SQL/main/BankSQL/output_images/plot_5.jpg" width="100%" height="100%" alt="me">)
+![t55](<img src="https://raw.githubusercontent.com/guzmanwolfrank/Data-SQL/main/BankSQL/output_images/plot_5.jpg" width="100%" height="100%" alt="me">)
 
 
 
