@@ -29,9 +29,11 @@ Here, we create a Python script that Transforms the Flagged Transaction Data CSV
 We can then embed the Dashboard into an HTML file with pertinent project data and analysis.  This HTML site is then downloaded and stored in an Amazon Web Services S3 Bucket for storage. 
 <br>
 
-By making a dashboard and running SQL queries -- SQLBank, can get a better understanding of their issues and how to solve them.  
+Analyzing Flagged Data and making a dashboard and running SQL queries -- SQLBank, wishes to get a better understanding of their issues and how to solve them.  
 
-## Links 
+
+
+<hr>
 
 ### [Jupyter Notebook](#) 
 ### [Looker Dashboard](https://lookerstudio.google.com/embed/reporting/d1e85f0d-9a43-4aab-ba44-d898cfa25feb/page/ZfY0D)
