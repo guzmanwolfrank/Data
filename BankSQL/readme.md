@@ -104,34 +104,22 @@ queries = [<br> <br>
 
 <hr>
 
-![image](https://github.com/guzmanwolfrank/Data-SQL/blob/10022a1059a16cbd7b2ba2d4c1aafe56c0fe2075/BankSQL/Dashboard/LookerBankSQL.jpg)
+
 
 
 ## Visualizations 
 
 We can use our SQL Queries to generate Seaborn Visualizations 
 
-*image*
-
-
-![chart1](https://github.com/guzmanwolfrank/Data-SQL/blob/86a3c797426a8a6252494e3f67c350e8c5ce43c5/BankSQL/output_images/plot_1.jpg)
-</br>
+![image](https://github.com/guzmanwolfrank/Data-SQL/blob/10022a1059a16cbd7b2ba2d4c1aafe56c0fe2075/BankSQL/Dashboard/LookerBankSQL.jpg)
 
 ![chart2](https://github.com/guzmanwolfrank/Data-SQL/blob/86a3c797426a8a6252494e3f67c350e8c5ce43c5/BankSQL/output_images/plot_3.jpg)
 </br>
 
 ![chart3](https://github.com/guzmanwolfrank/Data-SQL/blob/86a3c797426a8a6252494e3f67c350e8c5ce43c5/BankSQL/output_images/plot_5.jpg)
 </br>
-
-![chart4](https://github.com/guzmanwolfrank/Data-SQL/blob/5df0c1dec62e24e033452d48c6504331acc0a7b3/BankSQL/output_images/plot_1.jpg)
-</br>
-
 ![chart5](https://github.com/guzmanwolfrank/Data-SQL/blob/86a3c797426a8a6252494e3f67c350e8c5ce43c5/BankSQL/output_images/plot_6.png)
 </br>
-
-![chart6](https://github.com/guzmanwolfrank/Data-SQL/blob/86a3c797426a8a6252494e3f67c350e8c5ce43c5/BankSQL/output_images/plot_7.jpg)
-</br>
-
 
 ## Findings 
 
