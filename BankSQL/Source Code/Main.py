@@ -258,14 +258,14 @@ html_content = """
             <li><code>banking_data_analysis.html</code>: Project HTML with embedded Looker Dashboard.</li>
             <li><code>Requirements.txt</code>: Project requirements and modules needed.</li>
         </ul>
-
         <hr>
+                <h2><a href="https://github.com/guzmanwolfrank/Data-SQL/blob/main/BankSQL/readme.md">Readme</a></h2>
 
-        <h2><a href="#">Jupyter Notebook</a></h2>
+ <h2>   <a href="https://github.com/guzmanwolfrank/Data-SQL/tree/main/BankSQL/Source%20Code">Source Code</a></h2>
         <h2><a href="https://lookerstudio.google.com/s/uC0WU8zs5_I">Looker Dashboard</a></h2>
-        <h2><a href="#">Data</a></h2>
-
-        <hr>
+        <h2><a href="https://github.com/guzmanwolfrank/Data-SQL/tree/main/BankSQL/data/datagen">Data</a></h2>
+    <hr>
+    
 
         <h3>Prerequisites</h3>
         <ul>
