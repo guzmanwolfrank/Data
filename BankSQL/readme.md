@@ -91,6 +91,7 @@ The CSV file contains the following columns related to the Banking CSV File:
 - **CardState**: State of the card (e.g., active, inactive)
 - **CardToken**: Tokenized representation of the card
 
+## SQL Queries 
 
 ![Image](https://github.com/guzmanwolfrank/Data-SQL/blob/SQLBank/BankSQL/output_images/sqlqueries.png)
 
