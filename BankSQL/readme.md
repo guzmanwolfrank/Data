@@ -6,6 +6,25 @@ This project demonstrates the process of transforming a CSV file into a Looker D
 
 Additionally, the project generates an HTML file with the Looker dashboard embedded, which can be placed in an AWS S3 bucket for easy access and sharing.
 
+## Project Description
+
+This project performs Data Analysis in order to better understand flagged accounts in a corporation's transactions database.  
+
+The corporation wishes to understand and correlate data in order to better serve their clients in good and bad standing.  Their clients tend to be Vendors, Retail and Private who wholeseale short term credit and 
+issue payment systems to their own customers.  
+<br>
+
+
+
+
+The CSV file used is a spreadsheet that displays 100 transactions flagged as 'Problematic' or 'Suspicious'.  These include accounts in bad standing, processing and transacting in 
+short term credit.  The users are Vendors and Clients of a Short Term Credit Bank Facility. 
+
+The Bank facilitates 'VendorBucks' to retail vendors so that they can extend credit to their customers.  Vendors are also granted Cash and Crypto credit capabilities 
+for payment processing from their clients.  
+
+
+
 ## Links 
 
 ### [Jupyter Notebook](#) 
