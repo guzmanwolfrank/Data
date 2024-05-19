@@ -8,7 +8,7 @@ Additionally, the project generates an HTML file with the Looker dashboard embed
 
 ## Links 
 
-### [Jupyter Notebook] (#) 
+### [Jupyter Notebook](#) 
 ### [Looker Dashboard](https://lookerstudio.google.com/embed/reporting/d1e85f0d-9a43-4aab-ba44-d898cfa25feb/page/ZfY0D)
 ### [Data](#)
 
