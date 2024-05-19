@@ -43,7 +43,7 @@ Analyzing Flagged Data and making a dashboard and running SQL queries -- SQLBank
 
 ## Project Structure
 
-- `Dashboard/`: Contains the Dashboard PDF and a Sample Image. 
+- `Dashboard/`: Contains the Dashboard PDF and a Sample Image. A markdown format with the links and embed text are also stored here. 
 - `data/`: Contains the datagen folder in which the backup jupyter notebook and CSV Data file are stored.   
 - `Notebooks/`: Project Code. Includes Python script (SQLHTML.ipynb) for data transformation, SQL operations, and visualization and HTML code.  This script also contains code to send to AWS S3 Bucket.  
 - `output_images/`: Stores generated output images from Seaborn plots and other images from the project.
