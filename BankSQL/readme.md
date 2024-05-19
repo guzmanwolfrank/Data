@@ -49,6 +49,15 @@ Analyzing Flagged Data and making a dashboard and running SQL queries -- SQLBank
 - `README.md`: Project documentation.
 - `banking_data_analysis.html`: Project HTML with embedded Looker Dashboard.
 
+
+<hr>
+
+## [Jupyter Notebook](#) 
+## [Looker Dashboard](https://lookerstudio.google.com/embed/reporting/d1e85f0d-9a43-4aab-ba44-d898cfa25feb/page/ZfY0D)
+## [Data](#)
+
+<hr>
+
 ### Prerequisites
 
 - Python 3.x
@@ -96,13 +105,6 @@ queries = [<br> <br>
 
 
 
-<hr>
-
-### [Jupyter Notebook](#) 
-### [Looker Dashboard](https://lookerstudio.google.com/embed/reporting/d1e85f0d-9a43-4aab-ba44-d898cfa25feb/page/ZfY0D)
-### [Data](#)
-
-<hr>
 
 
 
