@@ -130,10 +130,13 @@ SQLBank can now look into how to make sure the Florida flagged transactions can 
 <br>
 SQLBank can now investigate further as to why this amount is the most common amongst flagged accounts.  Next month a SQL Query can be run as to focus on transactions in this bandwidth. 
 <br><br>
+
 ### iii. Transfers had the highest amounts per transaction but Withdrawals were the most frequent.  
 <br>
+
 This is problematic as flagged withdrawals offer the least chance of recouping losses or fraudulent charges and transactions. We can now check our data and dashboard and see which regions had the highest withdrawals. 
 <br><br>
+
 ### iv. The Dashboard reveals that the least problematic region for SQLBank is the West Coast.  
 <br>
 A manager from the Fraud team will be sent out to the California Branches along with the SouthWestern regions to investigate how things are run better there and why there are less flagged transactions.
