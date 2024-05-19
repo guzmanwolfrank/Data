@@ -91,18 +91,6 @@ The CSV file contains the following columns related to the Banking CSV File:
 - **CardState**: State of the card (e.g., active, inactive)
 - **CardToken**: Tokenized representation of the card
 
-## SQL Queries 
-
-queries = [<br> <br>
-    # 1. Select first 10 rows <br>("SELECT * FROM banking_data LIMIT 10;", "Select first 10 rows") <br><br>
-    # 2. Count the number of rows <br>("SELECT COUNT(*) AS Total_Transactions FROM banking_data;", "Count the number of rows"),  <br><br>
-    # 3. Select distinct transaction types <br>("SELECT DISTINCT TransactionType FROM banking_data;", "Select distinct transaction types") <br><br>
-    # 4. Calculate the average transaction amount <br>("SELECT AVG(Amount) AS Avg_Amount FROM banking_data;", "Calculate the average transaction amount") <br><br>
-    # 5. Count number of transactions per state <br>("SELECT StateID, COUNT(*) AS Transaction_Count FROM banking_data GROUP BY StateID;", "Count number of transactions per state")  <br><br>
-    # 6. Average transaction amount per currency <br>("SELECT Currency, AVG(Amount) AS Avg_Amount FROM banking_data GROUP BY Currency;", "Average transaction amount per currency")  <br><br>
-     # 7. Top 5 transactions by amount <br>("SELECT TransactionDate, Amount FROM banking_data ORDER BY Amount DESC LIMIT 5;", "Top 5 transactions by amount") <br><br>
-]
-
 
 ![Image](https://github.com/guzmanwolfrank/Data-SQL/blob/SQLBank/BankSQL/output_images/sqlqueries.png)
 
