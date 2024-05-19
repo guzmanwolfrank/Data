@@ -31,14 +31,13 @@ We can then embed the Dashboard into an HTML file with pertinent project data an
 
 Analyzing Flagged Data and making a dashboard and running SQL queries -- SQLBank, wishes to get a better understanding of their issues and how to solve them.  
 
-
-
 <hr>
 
 ### [Jupyter Notebook](#) 
 ### [Looker Dashboard](https://lookerstudio.google.com/embed/reporting/d1e85f0d-9a43-4aab-ba44-d898cfa25feb/page/ZfY0D)
 ### [Data](#)
 
+<hr>
 ![image](https://github.com/guzmanwolfrank/Data-SQL/blob/10022a1059a16cbd7b2ba2d4c1aafe56c0fe2075/BankSQL/Dashboard/LookerBankSQL.jpg)
 
 
