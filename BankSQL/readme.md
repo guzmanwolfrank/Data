@@ -8,9 +8,9 @@ Additionally, the project generates an HTML file with the Looker dashboard embed
 
 ## Links 
 
-### Jupyter Notebook for the project  can be found here (link). 
-### Looker Dashboard can be seen here ([link](https://lookerstudio.google.com/embed/reporting/d1e85f0d-9a43-4aab-ba44-d898cfa25feb/page/ZfY0D)). 
-### The main datasheet for this project can be found here (link). 
+### Jupyter Notebook (#). 
+### Looker Dashboard ([link](https://lookerstudio.google.com/embed/reporting/d1e85f0d-9a43-4aab-ba44-d898cfa25feb/page/ZfY0D)). 
+### Data (#)
 
 
 
