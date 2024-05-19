@@ -6,9 +6,9 @@ This folder contains a collection of SQL and Data projects.
 #
 
 
-#### [BankSQL](https://github.com/guzmanwolfrank/SQL/tree/main/BankSQL):This project is interesting in that it combines Python and SQL while generating fictional data using the Faker module. 
-We will generate information for a fictional survey which details salaries, survey questions, age and other data to then analyze and look for patterns in the data.  
+#### [BankSQL](https://github.com/guzmanwolfrank/SQL/tree/main/BankSQL):  This project demonstrates the process of transforming a CSV file into a Looker Dashboard and SQL database. We can run queries on the data, and visualize these queries using Seaborn and Looker.
 
+Additionally, the project generates an HTML file with the Looker dashboard embedded, which can be placed in an AWS S3 bucket for easy access and sharing.
 
 ![image](https://raw.githubusercontent.com/guzmanwolfrank/Data-SQL/main/BankSQL/output_images/plot_6.png )
 
