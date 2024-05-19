@@ -37,7 +37,7 @@ Analyzing Flagged Data and making a dashboard and running SQL queries -- SQLBank
 - **Data Transformation**: Reads data from a CSV file and transforms it into a format suitable for analysis.
 - **SQL Integration**: Loads the transformed data into an SQLite database and runs various SQL queries.
 - **Data Visualization**: Uses Seaborn to create visual representations of the query results.
-- **Looker Dashboard**: Creates a Looker dashboard for interactive data exploration.
+- **Looker Dashboard**: CSV Data is Loaded into Looker dashboard for interactive data exploration.
 - **HTML Generation**: Generates an HTML file embedding the Looker dashboard.
 - **Cloud Integration**: The generated HTML file can be uploaded to an AWS S3 bucket for online access.
 
