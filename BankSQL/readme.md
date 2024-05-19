@@ -43,9 +43,11 @@ Analyzing Flagged Data and making a dashboard and running SQL queries -- SQLBank
 
 ## Project Structure
 
-- `data/`: Contains the original CSV file and any additional data files.
-- `Notebooks/`: Project Code. Includes Python script for data transformation, SQL operations, and visualization and HTML code.  
-- `output_images/`: Stores generated output images from Seaborn plots.
+- `Dashboard/`: Contains the Dashboard PDF and a Sample Image. 
+- `data/`: Contains the datagen folder in which the backup jupyter notebook and CSV Data file are stored.   
+- `Notebooks/`: Project Code. Includes Python script (SQLHTML.ipynb) for data transformation, SQL operations, and visualization and HTML code.  
+- `output_images/`: Stores generated output images from Seaborn plots and other images from the project.
+- `SQL`: Project Jupyter notebook to generate visuals and analyze the SQL data using Python and Seaborn. This folder also contains the SQL queries in a text file.  
 - `README.md`: Project documentation.
 - `banking_data_analysis.html`: Project HTML with embedded Looker Dashboard.
 
