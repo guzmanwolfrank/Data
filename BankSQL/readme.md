@@ -8,7 +8,7 @@ Additionally, the project generates an HTML file with the Looker dashboard embed
 
 ## Project Description
 
-This project performs Data Analysis in order to better understand flagged accounts in a corporation's transactions database.  
+This project performs Data Analysis for SQLBank in order to better understand flagged accounts in the corporation's transactions database.  
 <br>
 The corporation, SQL Bank, wishes to attract investors for an IPO but first need to clean and fix their accounting, sales and credit systems. 
 <br>
