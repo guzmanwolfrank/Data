@@ -115,6 +115,9 @@ The CSV file contains the following columns related to the Banking CSV File:
 ![chart5](https://github.com/guzmanwolfrank/Data-SQL/blob/86a3c797426a8a6252494e3f67c350e8c5ce43c5/BankSQL/output_images/plot_6.png)
 </br>
 
+![chartimg](https://github.com/guzmanwolfrank/Data-SQL/blob/SQLBank/BankSQL/output_images/currencytransact.png)
+</br>
+
 ## Findings 
 
 We can see that Florida had the highest number overall of transactions while USD CASH had the highest average transaction amount per currency group. 
