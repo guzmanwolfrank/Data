@@ -1,81 +1,120 @@
-# BANK SQL 
+# Banking Data Project
 
-# Banking and Money Movement Data Project
+## Overview
 
-This project demonstrates the process of transforming a CSV file into a SQL database using Python and SQLite, and running SQL queries on the database. Additionally, it showcases how to create visualizations with Looker Dashboard and generate reports using SSIS and SSIR.
+This project demonstrates the process of transforming a CSV file into a Looker Dashboard and SQL database. We can run queries on the data, and visualize these queries using Seaborn and Looker.
 
-## Table of Contents
-
-- [Project Overview](#project-overview)
-- [Features](#features)
-- [Setup](#setup)
-- [Usage](#usage)
-  - [1. CSV to SQL Database](#1-csv-to-sql-database)
-  - [2. Running SQL Queries](#2-running-sql-queries)
-  - [3. Looker Dashboard](#3-looker-dashboard)
-  - [4. SSIS and SSIR Reports](#4-ssis-and-ssir-reports)
-- [Spreadsheet Columns Reference](#spreadsheet-columns-reference)
-- [Contributing](#contributing)
-- [License](#license)
-
-## Project Overview
-
-This project takes a CSV file containing banking and money movement data and converts it into a SQL database using Python and SQLite. SQL queries are then run on the database to extract meaningful insights. Visualizations are created using Looker Dashboard, and reports are generated using SQL Server Integration Services (SSIS) and SQL Server Reporting Services (SSIR).
+Additionally, the project generates an HTML file with the Looker dashboard embedded, which can be placed in an AWS S3 bucket for easy access and sharing.
 
 ## Features
 
-- Convert CSV file to SQL database
-- Run SQL queries on the database
-- Visualize data with Looker Dashboard
-- Generate reports with SSIS and SSIR
+- **Data Transformation**: Reads data from a CSV file and transforms it into a format suitable for analysis.
+- **SQL Integration**: Loads the transformed data into an SQLite database and runs various SQL queries.
+- **Data Visualization**: Uses Seaborn to create visual representations of the query results.
+- **Looker Dashboard**: Creates a Looker dashboard for interactive data exploration.
+- **HTML Generation**: Generates an HTML file embedding the Looker dashboard.
+- **Cloud Integration**: The generated HTML file can be uploaded to an AWS S3 bucket for online access.
 
-## Setup
+## Project Structure
+
+- `data/`: Contains the original CSV file and any additional data files.
+- `Notebooks/`: Project Code. Includes Python script for data transformation, SQL operations, and visualization and HTML code.  
+- `output_images/`: Stores generated output images from Seaborn plots.
+- `README.md`: Project documentation.
+- `banking_data_analysis.html`: Project HTML with embedded Looker Dashboard.
 
 ### Prerequisites
 
 - Python 3.x
-- SQLite
-- Looker
-- SSIS
-- SSIR
+- Pandas
+- SQLite3
+- Seaborn
+- Matplotlib
+- Looker SDK
+- AWS CLI (for S3 integration)
 
-### Installation
 
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/yourusername/banking-data-project.git
-    cd banking-data-project
-    ```
 
-2. Create a virtual environment and activate it:
-    ```bash
-    python -m venv venv
-    source venv/bin/activate  # On Windows use `venv\Scripts\activate`
-    ```
+## Data Dictionary
 
-3. Install the required Python packages:
-    ```bash
-    pip install -r requirements.txt
-    ```
+The CSV file contains the following columns related to the Banking CSV File:
 
-## Usage
+- **TransactionID**: Unique identifier for each transaction
+- **AccountID**: Unique identifier for each account
+- **TransactionDate**: Date of the transaction
+- **Amount**: Amount of money moved in the transaction
+- **TransactionType**: Type of transaction (e.g., deposit, withdrawal)
+- **Description**: Description of the transaction
+- **First Name**: First name of the account holder
+- **Last Name**: Last name of the account holder
+- **VendorID**: Unique identifier for each vendor
+- **FeeID**: Unique identifier for each fee
+- **FeePayable**: Amount of fee payable
+- **Card**: Type of card used (e.g., Virtual, Physical)
+- **MCC GroupName**: Merchant Category Code group name
+- **Channel**: Channel through which the transaction was made
+- **CardState**: State of the card (e.g., active, inactive)
+- **CardToken**: Tokenized representation of the card
 
-### 1. CSV to SQL Database
+## SQL Queries 
 
-Run the following script to convert the CSV file into a SQLite database:
+queries = [<br> <br>
+    # 1. Select first 10 rows <br>("SELECT * FROM banking_data LIMIT 10;", "Select first 10 rows") <br><br>
+    # 2. Count the number of rows <br>("SELECT COUNT(*) AS Total_Transactions FROM banking_data;", "Count the number of rows"),  <br><br>
+    # 3. Select distinct transaction types <br>("SELECT DISTINCT TransactionType FROM banking_data;", "Select distinct transaction types") <br><br>
+    # 4. Calculate the average transaction amount <br>("SELECT AVG(Amount) AS Avg_Amount FROM banking_data;", "Calculate the average transaction amount") <br><br>
+    # 5. Count number of transactions per state <br>("SELECT StateID, COUNT(*) AS Transaction_Count FROM banking_data GROUP BY StateID;", "Count number of transactions per state")  <br><br>
+    # 6. Average transaction amount per currency <br>("SELECT Currency, AVG(Amount) AS Avg_Amount FROM banking_data GROUP BY Currency;", "Average transaction amount per currency")  <br><br>
+     # 7. Top 5 transactions by amount <br>("SELECT TransactionDate, Amount FROM banking_data ORDER BY Amount DESC LIMIT 5;", "Top 5 transactions by amount") <br><br>
+]
 
-```python
-import pandas as pd
-import sqlite3
 
-# Load CSV into DataFrame
-df = pd.read_csv('data/banking_data.csv')
+## Visualizations 
 
-# Connect to SQLite database (or create it)
-conn = sqlite3.connect('data/banking_data.db')
+We can use our SQL Queries to generate Seaborn Visualizations 
 
-# Convert DataFrame to SQL
-df.to_sql('banking_data', conn, if_exists='replace', index=False)
+*image*
 
-# Close the connection
-conn.close()
+
+![chart1](https://github.com/guzmanwolfrank/Data-SQL/blob/86a3c797426a8a6252494e3f67c350e8c5ce43c5/BankSQL/output_images/plot_1.jpg)
+</br>
+
+![chart2](https://github.com/guzmanwolfrank/Data-SQL/blob/86a3c797426a8a6252494e3f67c350e8c5ce43c5/BankSQL/output_images/plot_3.jpg)
+</br>
+
+![chart3](https://github.com/guzmanwolfrank/Data-SQL/blob/86a3c797426a8a6252494e3f67c350e8c5ce43c5/BankSQL/output_images/plot_5.jpg)
+</br>
+
+![chart4](https://github.com/guzmanwolfrank/Data-SQL/blob/5df0c1dec62e24e033452d48c6504331acc0a7b3/BankSQL/output_images/plot_1.jpg)
+</br>
+
+![chart5](https://github.com/guzmanwolfrank/Data-SQL/blob/86a3c797426a8a6252494e3f67c350e8c5ce43c5/BankSQL/output_images/plot_6.png)
+</br>
+
+![chart6](https://github.com/guzmanwolfrank/Data-SQL/blob/86a3c797426a8a6252494e3f67c350e8c5ce43c5/BankSQL/output_images/plot_7.jpg)
+</br>
+
+
+## Findings 
+
+We can see that Florida had the highest number overall of transactions while USD CASH had the highest average transaction amount per currency group. 
+
+It is also worthy to note that Withdrawal was the most popular transaction type in the data. 
+
+
+## Conclusion 
+
+
+In conclusion, our analysis of the banking and money movement data reveals some interesting insights. Florida emerged as the state with the highest number of transactions overall, indicating a significant volume of financial activity in the region. Additionally, USD CASH stood out with the highest average transaction amount per currency group, suggesting that transactions involving this currency tend to be larger on average.
+
+Furthermore, the dominance of Withdrawal as the most popular transaction type highlights a common financial behavior among account holders. This finding underscores the importance of understanding customer preferences and behaviors to tailor financial services effectively.
+
+Overall, this project demonstrates the value of data analysis in uncovering patterns and trends within financial datasets, providing valuable insights that can inform business strategies and decision-making processes.
+
+
+## License 
+
+MIT License
+
+Copyright (c) [2024] [Wolfrank Guzman]
+
