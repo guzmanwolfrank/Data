@@ -104,7 +104,7 @@ queries = [<br> <br>
 ]
 
 
-guzmanwolfrank/Data-SQL/BankSQL/output_images/sqlqueries.png
+![Image](https://github.com/guzmanwolfrank/Data-SQL/blob/SQLBank/BankSQL/output_images/sqlqueries.png)
 
 ## Visualizations 
 
