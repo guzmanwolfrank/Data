@@ -15,7 +15,6 @@ The corporation, SQL Bank, wishes to attract investors for an IPO but first need
 Recently, their internal systems have flagged 100 transactions for suspicious activity along with transacting while not paying on time, and also a few accounts somehow transacting while 
 in suspended or terminated state.  
 <br>
-
 SQLBank's clients tend to be Vendors, Retail and Private-- who wholeseale short term credit and 
 issue payment systems to their own customers.
 <br>
