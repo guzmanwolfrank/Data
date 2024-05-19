@@ -12,7 +12,7 @@ This project performs Data Analysis in order to better understand flagged accoun
 <br>
 The corporation, SQL Bank, wishes to attract investors for an IPO but first need to clean and fix their accounting, sales and credit systems. 
 <br>
-Recently, their internal systems have flagged 100 transactions for suspicious activity, transacting while not paying on time, and also a few accounts somehow transacting while 
+Recently, their internal systems have flagged 100 transactions for suspicious activity along with transacting while not paying on time, and also a few accounts somehow transacting while 
 in suspended or terminated state.  
 <br>
 Before making decisions, the Board has requested the Data Team to come up with unique Looker Dashboards using CSV files and SQL. 
