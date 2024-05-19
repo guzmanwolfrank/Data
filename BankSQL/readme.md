@@ -100,7 +100,7 @@ The CSV file contains the following columns related to the Banking CSV File:
 
 ## AWS S3 Upload 
 
-
+![Image](https://github.com/guzmanwolfrank/Data-SQL/blob/SQLBank/BankSQL/output_images/awsupload.png)
 
 ## Visualizations 
 
