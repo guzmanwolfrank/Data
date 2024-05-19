@@ -12,7 +12,7 @@ Additionally, the project generates an HTML file with the Looker dashboard embed
 ### [Looker Dashboard](https://lookerstudio.google.com/embed/reporting/d1e85f0d-9a43-4aab-ba44-d898cfa25feb/page/ZfY0D)
 ### [Data](#)
 
-
+![image](https://github.com/guzmanwolfrank/Data-SQL/blob/10022a1059a16cbd7b2ba2d4c1aafe56c0fe2075/BankSQL/Dashboard/LookerBankSQL.jpg)
 
 
 ## Features
