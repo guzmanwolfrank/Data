@@ -50,6 +50,7 @@ Analyzing Flagged Data and making a dashboard and running SQL queries -- SQLBank
 - `SQL`: Project Jupyter notebook to generate visuals and analyze the SQL data using Python and Seaborn. This folder also contains the SQL queries in a text file.  
 - `README.md`: Project documentation.
 - `banking_data_analysis.html`: Project HTML with embedded Looker Dashboard.
+- `Requirements.txt`: Project requirements and modules needed.
 
 
 <hr>
