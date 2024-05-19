@@ -104,7 +104,7 @@ queries = [<br> <br>
 ]
 
 
-
+guzmanwolfrank/Data-SQL/BankSQL/output_images/sqlqueries.png
 
 ## Visualizations 
 
