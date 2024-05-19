@@ -2,6 +2,8 @@
 
 ## Overview
 
+# This entire project can be viewed [here](https://wolfranknyc.github.io/) 
+
 This project demonstrates the process of transforming a CSV file into a Looker Dashboard and SQL database. We can run queries on the data, and visualize these queries using Seaborn and Looker.
 
 Additionally, the project generates an HTML file with the Looker dashboard embedded, which can be placed in an AWS S3 bucket for easy access and sharing.
@@ -55,9 +57,13 @@ Analyzing Flagged Data and making a dashboard and running SQL queries -- SQLBank
 
 <hr>
 
-## [Jupyter Notebook](#) 
+## [Github Readme](https://github.com/guzmanwolfrank/Data-SQL/blob/main/BankSQL/readme.md)
+
+## [Source Code](https://github.com/guzmanwolfrank/Data-SQL/blob/main/BankSQL/Source%20Code/SQLHtml.ipynb) 
+
 ## [Looker Dashboard](https://lookerstudio.google.com/embed/reporting/d1e85f0d-9a43-4aab-ba44-d898cfa25feb/page/ZfY0D)
-## [Data](#)
+
+## [Data](https://github.com/guzmanwolfrank/Data-SQL/tree/main/BankSQL/data/datagen)
 
 <hr>
 
