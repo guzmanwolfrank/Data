@@ -101,6 +101,8 @@ The CSV file contains the following columns related to the Banking CSV File:
 
 # [Looker Dashboard](https://lookerstudio.google.com/embed/reporting/d1e85f0d-9a43-4aab-ba44-d898cfa25feb/page/ZfY0D) 
 
+Click [here](https://lookerstudio.google.com/embed/reporting/d1e85f0d-9a43-4aab-ba44-d898cfa25feb/page/ZfY0D) for Looker Dashboard for the project.  
+
 ![image](https://github.com/guzmanwolfrank/Data-SQL/blob/SQLBank/BankSQL/Dashboard/LookerBankSQL.png)
 
 # [SQL + Seaborn](#)
