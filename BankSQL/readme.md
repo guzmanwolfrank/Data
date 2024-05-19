@@ -105,7 +105,7 @@ The CSV file contains the following columns related to the Banking CSV File:
 
 ![image](https://github.com/guzmanwolfrank/Data-SQL/blob/10022a1059a16cbd7b2ba2d4c1aafe56c0fe2075/BankSQL/Dashboard/LookerBankSQL.jpg)
 
-# SQL + Seaborn 
+# [SQL + Seaborn](#)
 
 ![chart2](https://github.com/guzmanwolfrank/Data-SQL/blob/86a3c797426a8a6252494e3f67c350e8c5ce43c5/BankSQL/output_images/plot_3.jpg)
 </br>
