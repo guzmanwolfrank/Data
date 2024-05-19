@@ -9,20 +9,25 @@ Additionally, the project generates an HTML file with the Looker dashboard embed
 ## Project Description
 
 This project performs Data Analysis in order to better understand flagged accounts in a corporation's transactions database.  
+<br>
+The corporation, SQL Bank, wishes to attract investors for an IPO but first need to clean and fix their accounting, sales and credit systems. 
+<br>
+Recently, their internal systems have flagged 100 transactions for suspicious activity, transacting while not paying on time, and also a few accounts somehow transacting while 
+in suspended or terminated state.  
+<br>
+Before making decisions, the Board has requested the Data Team to come up with unique Looker Dashboards using CSV files and SQL. 
 
-The corporation wishes to understand and correlate data in order to better serve their clients in good and bad standing.  Their clients tend to be Vendors, Retail and Private who wholeseale short term credit and 
-issue payment systems to their own customers.  
+
+SQLBank's clients tend to be Vendors, Retail and Private-- who wholeseale short term credit and 
+issue payment systems to their own customers.
 <br>
 
+The payment systems take Cryptocurrencies, USD Cash and VendorBucks.  VendorBucks are whitelabeled credit cards issued by the Vendors to their customers.  The Vendors then borrow money from SQL Bank 
+in order to furnish credit and loans to their clients.  
+<br>
+Here, we create a Python script that Transforms the Flagged Transaction Data CSV into SQL, then runs queries which are visualized in Seaborn.  We then use the CSV Data to make a Dashboard using Google Looker.  
 
-
-
-The CSV file used is a spreadsheet that displays 100 transactions flagged as 'Problematic' or 'Suspicious'.  These include accounts in bad standing, processing and transacting in 
-short term credit.  The users are Vendors and Clients of a Short Term Credit Bank Facility. 
-
-The Bank facilitates 'VendorBucks' to retail vendors so that they can extend credit to their customers.  Vendors are also granted Cash and Crypto credit capabilities 
-for payment processing from their clients.  
-
+We can then embed the Dashboard into an HTML file with pertinent project data and analysis.  This HTML site is then downloaded and stored in an Amazon Web Services S3 Bucket for storage. 
 
 
 ## Links 
