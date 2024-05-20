@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -44,6 +45,21 @@
             text-decoration: none;
             background-color: #000000;
         }
+        /* Add this new CSS block */
+    /* Add this new CSS block */
+        .image-grid {
+            display: grid;
+            grid-template-columns: repeat(4, 1fr);
+            gap: 20px;
+            margin: 40px 0;
+        }
+
+        .image-grid img {
+            width: 100%;
+            height: auto;
+        }
+
+
         a {
             color: grey;
             text-decoration: none;
@@ -119,6 +135,17 @@
         .query-image img {
             max-width: 100%;
         }
+        /* Add this new CSS block */
+.two-column-layout {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 40px;
+}
+
+.column-left, .column-right {
+    width: 48%;
+}
+
     </style>
 </head>
 <body>
@@ -219,24 +246,17 @@
         <div class="column3">
         <h5> Looker Dashboard </h5> 
 <iframe width="1500px" height="1500px" src="https://lookerstudio.google.com/embed/reporting/d1e85f0d-9a43-4aab-ba44-d898cfa25feb/page/ZfY0D" frameborder="0" style="border:0" allowfullscreen sandbox="allow-storage-access-by-user-activation allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox"></iframe>           
-
-
 <h2>SQL Queries</h2>
+       
 
-
-            <img src="https://raw.githubusercontent.com/guzmanwolfrank/Data-SQL/main/BankSQL/output_images/sqlqueries.png"   width="40%" height="40%" alt="me">  
-
-      <br>   
-   
-        <img src="https://github.com/guzmanwolfrank/Data-SQL/blob/main/BankSQL/output_images/double.jpg" width="100%" height="100%" alt="me">
-
-
-  
-   
-        
-
-             
-              
+      <br>               
+      <div class="image-grid">
+        <img src="https://raw.githubusercontent.com/guzmanwolfrank/Data-SQL/main/BankSQL/output_images/sqlqueries.png" alt="SQL Queries">
+        <img src="https://raw.githubusercontent.com/guzmanwolfrank/Data-SQL/main/BankSQL/output_images/plot_5.jpg" alt="Plot 5">
+        <img src="https://raw.githubusercontent.com/guzmanwolfrank/Data-SQL/main/BankSQL/output_images/plot_3.jpg" alt="Plot 3">
+        <img src="https://raw.githubusercontent.com/guzmanwolfrank/Data-SQL/main/BankSQL/output_images/currencytransact.png" alt="Currency Transaction">
+    </div>
+    
               
             <h2> AWS S3 Upload </h2> 
                       
