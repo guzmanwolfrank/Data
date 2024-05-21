@@ -155,7 +155,22 @@ By contrasting business practices in the West Coast to the more problematic East
 
 <br><br>
 
+### v. Total Amount of Flagged transactions was 100, with an average Fee of 27.75 and a grand total of $319,683.90 of flagged transactions. 
+<br>
+Overall, SQLBank is quite happy that only 100 transactions were flagged from January 2024 up until March 26, 2024.  
 
+<br><br>
+
+### vi. The highest Transaction amounts belonged to Pennsylvania, New York and Nebraska.  
+<br>
+Although Pennsylvania had the highest transaction amount, New York paid a higher fee by $11.04.  SQLBank has decided to look into the fee discrepancy as to dissuade NY clients from using VPNs to dodge the higher NY fees and be charged the lower fees elsewhere. 
+<br><br>
+
+### vii.  The majority of Overdue accounts had the highest API channel Transactions with  more than $17,500 spent out of the $319,683.90.  
+<br>
+SQLBank will need to focus on API channel transactions in the following states: NH, FL, TN, LA, KS, WY, MN, IA, MI, NM, AZ, CA, and OR. 
+
+<br><br>
 
 ## Conclusion 
 
