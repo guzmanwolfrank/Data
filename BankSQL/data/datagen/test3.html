@@ -16,6 +16,9 @@
             flex-direction: row;
             font-size: 16px;
         }
+        .row{
+            padding: 30px;
+        }
         nav  {
             background-color: #000000;
             color: #000000;
@@ -140,6 +143,39 @@
         .column-left, .column-right {
             width: 48%;
         }
+        /* Media Queries for Responsive Design */
+
+@media (max-width: 1200px) {
+    .column, .column2, .column3 {
+        width: 100%;
+        margin: 20px 0;
+    }
+    
+    .two-column-layout {
+        flex-direction: column;
+    }
+    
+    .column-left, .column-right {
+        width: 100%;
+    }
+    
+    .image-grid {
+        grid-template-columns: repeat(2, 1fr);
+        gap: 10px;
+    }
+}
+
+@media (max-width: 768px) {
+    nav ul {
+        padding: 10px;
+        font-size: 24px;
+    }
+
+    .image-grid {
+        grid-template-columns: 1fr;
+        gap: 10px;
+    }
+}
     </style>
 </head>
 <body>
@@ -196,36 +232,54 @@
             <hr>
             <h2><a href="https://github.com/guzmanwolfrank/Data-SQL/blob/main/BankSQL/readme.md">Readme</a></h2>
             <h2><a href="https://github.com/guzmanwolfrank/Data-SQL/tree/main/BankSQL/Source%20Code">Source Code</a></h2>
-            <h2><a href="https://github.com/guzmanwolfrank/Data-SQL/blob/main/BankSQL/output_images">Project Image Folder</a></h2>
+            <h2><a href="https://lookerstudio.google.com/embed/reporting/d1e85f0d-9a43-4aab-ba44-d898cfa25feb/page/ZfY0D">Google Looker Dashboard</a></h2>
             <hr>
-            <h2>Looker Dashboard</h2>
-            <iframe width="600" height="1200" src="https://lookerstudio.google.com/embed/reporting/d1e85f0d-9a43-4aab-ba44-d898cfa25feb/page/ZfY0D" frameborder="0" style="border:0" allowfullscreen sandbox="allow-storage-access-by-user-activation allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox"></iframe>
-            <h2>SQL Queries</h2>
-
+            <h2> Looker Dashboard</h2>
+            <iframe width="80%" height="1500" src="https://lookerstudio.google.com/embed/reporting/d1e85f0d-9a43-4aab-ba44-d898cfa25feb/page/ZfY0D" frameborder="0" style="border:0" allowfullscreen sandbox="allow-storage-access-by-user-activation allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox"></iframe>
+            <h2> SQL Queries</h2>
             <div class="image-grid">
-
-                <img src="https://raw.githubusercontent.com/guzmanwolfrank/Data-SQL/main/BankSQL/output_images/sqlqueries.png" alt="SQL Queries">
-                <img src="https://raw.githubusercontent.com/guzmanwolfrank/Data-SQL/main/BankSQL/output_images/plot_5.jpg" alt="Plot 5">
-                <img src="https://raw.githubusercontent.com/guzmanwolfrank/Data-SQL/main/BankSQL/output_images/plot_3.jpg" alt="Plot 3">
-                <img src="https://raw.githubusercontent.com/guzmanwolfrank/Data-SQL/main/BankSQL/output_images/currencytransact.png" alt="Currency Transaction">
+                <a href="https://raw.githubusercontent.com/guzmanwolfrank/Data-SQL/main/BankSQL/output_images/sqlqueries.png" target="_blank">
+                    <img src="https://raw.githubusercontent.com/guzmanwolfrank/Data-SQL/main/BankSQL/output_images/sqlqueries.png" alt="SQL Queries">
+                </a>
+                <a href="https://raw.githubusercontent.com/guzmanwolfrank/Data-SQL/main/BankSQL/output_images/plot_5.jpg" target="_blank">
+                    <img src="https://raw.githubusercontent.com/guzmanwolfrank/Data-SQL/main/BankSQL/output_images/plot_5.jpg" alt="Plot 5">
+                </a>
+                <a href="https://raw.githubusercontent.com/guzmanwolfrank/Data-SQL/main/BankSQL/output_images/plot_3.jpg" target="_blank">
+                    <img src="https://raw.githubusercontent.com/guzmanwolfrank/Data-SQL/main/BankSQL/output_images/plot_3.jpg" alt="Plot 3">
+                </a>
+                <a href="https://raw.githubusercontent.com/guzmanwolfrank/Data-SQL/main/BankSQL/output_images/currencytransact.png" target="_blank">
+                    <img src="https://raw.githubusercontent.com/guzmanwolfrank/Data-SQL/main/BankSQL/output_images/currencytransact.png" alt="Currency Transaction">
+                </a>
             </div>
 
             <div class="two-column-layout">
                 <div class="column-left">
                     <h2>AWS S3 Upload</h2>
                     <p>The generated HTML file can be uploaded to an AWS S3 bucket for online access and sharing. The HTML file contains the Looker dashboard embedded for interactive data exploration.</p>
-                    <img src="https://raw.githubusercontent.com/guzmanwolfrank/Data-SQL/main/BankSQL/output_images/awsupload.png"   width="80%" height="80%" alt="me">  
+                    <img src="https://raw.githubusercontent.com/guzmanwolfrank/Data-SQL/main/BankSQL/output_images/awsupload.png"   width="80%"  alt="me">  
 
                 </div>
                 <div class="column-right">
                     <h2>Findings</h2>
-                    <p>The analysis identified several key issues in the transaction data, including a significant number of transactions flagged for suspicious activity, late payments, and accounts in suspended or terminated states conducting transactions.</p>
-                    
-                    <h2>Conclusion</h2>
-                    <p>SQLBank needs to improve its transaction monitoring and account management systems to prevent suspicious activities and ensure timely payments. The integration of Looker dashboards provides a powerful tool for ongoing data analysis and monitoring.</p>
-                    
-                    <h2>License</h2>
-                    <p>This project is licensed under the MIT License. See the <a href="https://opensource.org/licenses/MIT">LICENSE</a> file for more information.</p>
+            
+              
+              <p><strong>i.</strong> We can see that Florida had the highest number overall of transactions while USD CASH had the highest average transaction amount per currency group.</p>
+        <p>SQLBank can now look into how to make sure the Florida flagged transactions can be reduced. Next steps can include running a Florida specific report on account status, late payments, and root causes for flagged transactions in the region.</p>
+        <p><strong>ii.</strong> The average transaction amount that was flagged was around $3,000 dollars.</p>
+        <p>SQLBank can now investigate further as to why this amount is the most common amongst flagged accounts. Next month a SQL Query can be run as to focus on transactions in this bandwidth.</p>
+        <p><strong>iii.</strong> Transfers had the highest amounts per transaction but Withdrawals were the most frequent.</p>
+        <p>This is problematic as flagged withdrawals offer the least chance of recouping losses or fraudulent charges and transactions. We can now check our data and dashboard and see which regions had the highest withdrawals.</p>
+        <p><strong>iv.</strong> The Dashboard reveals that the least problematic region for SQLBank is the West Coast.</p>
+        <p>A manager from the Fraud team will be sent out to the California Branches along with the SouthWestern regions to investigate how things are run better there and why there are less flagged transactions. By contrasting business practices in the West Coast to the more problematic Eastern seaboard clients, SQLBank looks to bridge the gap within their flagged transactions and fraud departments.</p>
+
+        <h2>Conclusion</h2>
+        <p>In conclusion, our analysis of the banking and money movement data reveals some interesting insights. Florida emerged as the state with the highest number of transactions overall, indicating a significant volume of financial activity in the region. Additionally, USD CASH stood out with the highest average transaction amount per currency group, suggesting that transactions involving this currency tend to be larger on average.</p>
+        <p>Furthermore, the dominance of Withdrawal as the most popular transaction type highlights a common financial behavior among account holders. This finding underscores the importance of understanding customer preferences and behaviors to tailor financial services effectively.</p>
+        <p>Overall, this project demonstrates the value of data analysis in uncovering patterns and trends within financial datasets, providing valuable insights that can inform business strategies and decision-making processes.</p>
+
+        <h2>License</h2>
+        <p>MIT License</p>
+        <p>Copyright (c) 2024 Wolfrank Guzman</p>
                 </div>
             </div>
         </div>
